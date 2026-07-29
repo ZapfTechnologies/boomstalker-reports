@@ -3,146 +3,80 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Boom Stalker Latest Scan</title>
+<meta name="boomstalker-market-date" content="2026-07-29">
+<meta name="boomstalker-audience" content="public">
+<title>Boom Stalker — Daily Market Snapshot</title>
 <style>
 :root {
-    color-scheme: light dark;
-    --bg: #0d1117;
-    --panel: #161b22;
-    --panel-2: #21262d;
-    --text: #f0f6fc;
-    --muted: #8b949e;
-    --border: #30363d;
-    --accent: #58a6ff;
-    --positive: #3fb950;
-    --negative: #f85149;
-    --neutral: #d29922;
+  color-scheme: light dark;
+  --bg:#0d1117;--panel:#161b22;--panel2:#21262d;--text:#f0f6fc;
+  --muted:#8b949e;--border:#30363d;--accent:#58a6ff;
+  --positive:#3fb950;--negative:#f85149;--neutral:#d29922;--purple:#bc8cff;
 }
-* { box-sizing: border-box; }
-body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-}
-.container {
-    max-width: 1180px;
-    margin: 0 auto;
-    padding: 18px;
-}
-h1 {
-    margin: 0 0 4px;
-    font-size: 1.65rem;
-}
-.subtitle {
-    color: var(--muted);
-    margin-bottom: 16px;
-}
-.cards {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(130px, 1fr));
-    gap: 10px;
-    margin-bottom: 16px;
-}
-.card {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 12px;
-}
-.label {
-    color: var(--muted);
-    font-size: 0.8rem;
-}
-.value {
-    font-weight: 700;
-    font-size: 1.1rem;
-    margin-top: 4px;
-}
-.table-wrap {
-    overflow-x: auto;
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    background: var(--panel);
-}
-table {
-    width: 100%;
-    border-collapse: collapse;
-    min-width: 760px;
-}
-th {
-    position: sticky;
-    top: 0;
-    background: var(--panel-2);
-    color: var(--accent);
-    text-align: left;
-    padding: 11px 10px;
-    border-bottom: 1px solid var(--border);
-    white-space: nowrap;
-}
-td {
-    padding: 10px;
-    border-bottom: 1px solid var(--border);
-    vertical-align: top;
-}
-tr:last-child td { border-bottom: 0; }
-tr:hover td { background: rgba(88, 166, 255, 0.06); }
-.positive { color: var(--positive); font-weight: 700; }
-.negative { color: var(--negative); font-weight: 700; }
-.neutral { color: var(--neutral); font-weight: 700; }
-.trade-ready { color: var(--positive); font-weight: 800; }
-.trade-no { color: var(--muted); }
-.footer {
-    color: var(--muted);
-    font-size: 0.78rem;
-    margin-top: 12px;
-}
-@media (max-width: 700px) {
-    .container { padding: 12px; }
-    .cards { grid-template-columns: repeat(2, 1fr); }
-    h1 { font-size: 1.4rem; }
-}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.container{max-width:1240px;margin:0 auto;padding:18px}
+.brand{color:var(--accent);font-size:.78rem;font-weight:800;letter-spacing:.12em;
+text-transform:uppercase;margin-bottom:6px} h1{margin:0 0 5px;font-size:1.72rem}
+.subtitle{color:var(--muted);margin-bottom:16px}
+.market-read{border:1px solid var(--border);border-left:5px solid var(--accent);
+border-radius:14px;background:var(--panel);padding:15px 16px;margin-bottom:14px}
+.market-read.positive{border-left-color:var(--positive)}
+.market-read.developing{border-left-color:var(--purple)}
+.market-read.uneven,.market-read.caution{border-left-color:var(--neutral)}
+.market-read.defensive,.market-read.stand-aside{border-left-color:var(--negative)}
+.market-label{color:var(--muted);font-size:.74rem;font-weight:800;letter-spacing:.10em;
+text-transform:uppercase} .market-title{font-size:1.18rem;font-weight:800;margin-top:4px}
+.market-message{margin-top:5px;line-height:1.45}
+.market-detail{color:var(--muted);font-size:.80rem;margin-top:7px}
+.cards{display:grid;grid-template-columns:repeat(4,minmax(130px,1fr));gap:10px;
+margin-bottom:16px} .card{background:var(--panel);border:1px solid var(--border);
+border-radius:12px;padding:12px} .label{color:var(--muted);font-size:.8rem}
+.value{font-weight:700;font-size:1.06rem;margin-top:4px}
+.table-wrap{overflow-x:auto;border:1px solid var(--border);border-radius:12px;
+background:var(--panel)} table{width:100%;border-collapse:collapse;min-width:950px}
+th{position:sticky;top:0;background:var(--panel2);color:var(--accent);text-align:left;
+padding:11px 10px;border-bottom:1px solid var(--border);white-space:nowrap}
+td{padding:10px;border-bottom:1px solid var(--border);vertical-align:top}
+tr:last-child td{border-bottom:0} tr:hover td{background:rgba(88,166,255,.06)}
+.ticker{font-weight:800} .positive{color:var(--positive);font-weight:700}
+.negative{color:var(--negative);font-weight:700} .neutral{color:var(--neutral);
+font-weight:700} .status-ready{color:var(--positive);font-weight:700}
+.footer{color:var(--muted);font-size:.78rem;line-height:1.45;margin-top:12px}
+@media(max-width:760px){.container{padding:12px}.cards{grid-template-columns:repeat(2,1fr)}
+h1{font-size:1.42rem}.market-title{font-size:1.05rem}}
 </style>
 </head>
 <body>
 <div class="container">
-    <h1>Boom Stalker — Latest Scan</h1>
-    <div class="subtitle">
-        Lightweight phone report generated from the canonical workbook.
-    </div>
-
-    <div class="cards">
-        <div class="card">
-            <div class="label">Generated</div>
-            <div class="value">07/25/2026 01:18 AM</div>
-        </div>
-        <div class="card">
-            <div class="label">State Date</div>
-            <div class="value">07/24/2026</div>
-        </div>
-        <div class="card">
-            <div class="label">Scan Count</div>
-            <div class="value">6</div>
-        </div>
-        <div class="card">
-            <div class="label">History Rows</div>
-            <div class="value">4,330</div>
-        </div>
-    </div>
-
-    <div class="table-wrap">
-        <table>
-            <thead><tr><th>Ticker</th><th>Confidence</th><th>Trend</th><th>Trade</th><th>Why</th><th>Entry</th><th>Stop</th></tr></thead>
-            <tbody>
-                <tr><td>SAP</td><td>78.0</td><td class="positive">+32↑↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - LAGGING</td><td>160.83</td><td>154.05</td></tr><tr><td>OII</td><td>73.0</td><td class="positive">+53↑↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - VOLATILITY: RISK 20.1% &gt; 7.0%</td><td>51.72</td><td></td></tr><tr><td>CLF</td><td>68.0</td><td class="positive">+55↑↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - UNDER $15</td><td>11.84</td><td>10.66</td></tr><tr><td>RCL</td><td>56.0</td><td class="positive">+56↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - LAGGING</td><td>294.42</td><td>285.01</td></tr><tr><td>PCG</td><td>56.0</td><td class="positive">+12↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - GENERAL WATCH</td><td>17.84</td><td>17.10</td></tr><tr><td>XLI</td><td>54.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>182.45</td><td>179.53</td></tr><tr><td>XLV</td><td>54.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>162.50</td><td>159.60</td></tr><tr><td>SO</td><td>54.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>97.31</td><td>95.07</td></tr><tr><td>BSX</td><td>53.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>44.48</td><td>43.10</td></tr><tr><td>VRSN</td><td>53.0</td><td class="positive">+20↑↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - GENERAL WATCH</td><td>278.76</td><td>261.32</td></tr><tr><td>XLU</td><td>52.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>46.22</td><td>45.17</td></tr><tr><td>PAAS</td><td>51.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>44.01</td><td>42.30</td></tr><tr><td>WPM</td><td>51.0</td><td class="negative">-5↓↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>111.41</td><td>107.28</td></tr><tr><td>FDX</td><td>51.0</td><td>0 →</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>316.88</td><td>309.20</td></tr><tr><td>GD</td><td>51.0</td><td class="positive">+13↑↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - GENERAL WATCH</td><td>385.86</td><td>365.42</td></tr><tr><td>SPG</td><td>50.0</td><td class="negative">-2↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>228.65</td><td>222.33</td></tr><tr><td>SLB</td><td>50.0</td><td class="positive">+25↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - VOLATILITY: RISK 11.4% &gt; 7.0%</td><td>52.28</td><td></td></tr><tr><td>AEP</td><td>49.0</td><td class="negative">-4↓↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>135.46</td><td>132.87</td></tr><tr><td>NEE</td><td>49.0</td><td class="positive">+6↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>89.42</td><td>87.62</td></tr><tr><td>ATO</td><td>49.0</td><td class="negative">-4↓↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>178.79</td><td>174.76</td></tr><tr><td>EA</td><td>49.0</td><td class="negative">-2↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - LAGGING</td><td>209.11</td><td>206.44</td></tr><tr><td>XLF</td><td>49.0</td><td class="positive">+8↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>56.17</td><td>55.25</td></tr><tr><td>EWZ</td><td>49.0</td><td class="positive">+12↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>35.83</td><td>34.93</td></tr><tr><td>LLY</td><td>49.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>1,190.72</td><td>1,153.88</td></tr><tr><td>SYK</td><td>48.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>329.13</td><td>317.71</td></tr><tr><td>F</td><td>47.0</td><td class="positive">+12↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - UNDER $15</td><td>14.29</td><td>12.87</td></tr><tr><td>NRG</td><td>46.0</td><td class="negative">-1↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>140.10</td><td>134.93</td></tr><tr><td>TM</td><td>46.0</td><td class="negative">-2↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - LAGGING</td><td>177.71</td><td>174.72</td></tr><tr><td>MELI</td><td>46.0</td><td class="negative">-2↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - LAGGING</td><td>1,816.57</td><td>1,763.89</td></tr><tr><td>MKTX</td><td>46.0</td><td class="positive">+46↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>115.59</td><td>112.24</td></tr><tr><td>AMT</td><td>46.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>167.15</td><td>163.64</td></tr><tr><td>KWEB</td><td>44.0</td><td class="positive">+8↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>26.32</td><td>25.70</td></tr><tr><td>GBTC</td><td>44.0</td><td class="positive">+11↑↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>49.77</td><td>48.34</td></tr><tr><td>PCAR</td><td>43.0</td><td class="positive">+5↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - VOLATILITY: RISK 7.5% &gt; 7.0%</td><td>132.92</td><td></td></tr><tr><td>ITW</td><td>42.0</td><td class="negative">-2↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - GENERAL WATCH</td><td>281.93</td><td>269.10</td></tr><tr><td>ROKU</td><td>42.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - LAGGING</td><td>142.46</td><td>140.57</td></tr><tr><td>JNJ</td><td>42.0</td><td class="positive">+2↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - GENERAL WATCH</td><td>263.18</td><td>253.38</td></tr><tr><td>PH</td><td>41.0</td><td class="positive">+1↑</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>979.17</td><td>950.28</td></tr><tr><td>MDT</td><td>41.0</td><td class="negative">-11↓↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - SETUP</td><td>83.23</td><td>80.93</td></tr><tr><td>HII</td><td>41.0</td><td class="negative">-4↓↓</td><td class="trade-no">NO</td><td>NO - BEFORE 11AM | NO - GENERAL WATCH</td><td>289.42</td><td>277.72</td></tr>
-            </tbody>
-        </table>
-    </div>
-
-    <div class="footer">
-        Showing up to 40 rows from Scanner_Watchlist.
-        This is a monitoring report, not a live-trading instruction.
-    </div>
+  <div class="brand">Zapf Technologies LLC</div>
+  <h1>Boom Stalker — Daily Market Snapshot</h1>
+  <div class="subtitle">The first trend-confirmed scan of the trading day.</div>
+  <section class="market-read uneven">
+    <div class="market-label">Market Read</div>
+    <div class="market-title">Uneven Conditions</div>
+    <div class="market-message">Momentum is inconsistent and fewer candidates are clearing the major gates. Patience and selectivity matter today.</div>
+    <div class="market-detail">Regime: Unknown · Trend passes: 0 · Trade-ready: 0</div>
+  </section>
+  <div class="cards">
+    <div class="card"><div class="label">Published</div>
+      <div class="value">07/29/2026 06:44 PM</div></div>
+    <div class="card"><div class="label">Market Date</div>
+      <div class="value">07/29/2026</div></div>
+    <div class="card"><div class="label">Snapshot</div>
+      <div class="value">First Trend Scan</div></div>
+    <div class="card"><div class="label">Symbols Shown</div>
+      <div class="value">40</div></div>
+  </div>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Ticker</th><th>Confidence</th><th>Trend</th><th>Status / Reason</th><th>Entry</th><th>Stop</th><th>T1</th><th>T2</th></tr></thead>
+    <tbody><tr><td class='ticker'>BSX</td><td>86.0</td><td class='positive'>+46↑↑</td><td class='status-wait'>After the trade window · Trade criteria passed</td><td>46.41</td><td>43.53</td><td>49.01</td><td>50.45</td></tr><tr><td class='ticker'>NIO</td><td>71.0</td><td class='positive'>+10↑↑</td><td class='status-wait'>After the trade window · Under-$15 research only</td><td>4.84</td><td>4.36</td><td>5.33</td><td>5.81</td></tr><tr><td class='ticker'>INDA</td><td>69.0</td><td class='positive'>+28↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>49.53</td><td>48.64</td><td>50.34</td><td>50.79</td></tr><tr><td class='ticker'>MDB</td><td>68.0</td><td class='positive'>+68↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>332.10</td><td>311.95</td><td>350.23</td><td>360.31</td></tr><tr><td class='ticker'>NFLX</td><td>67.0</td><td class='positive'>+67↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>73.35</td><td>70.64</td><td>75.79</td><td>77.15</td></tr><tr><td class='ticker'>DOCS</td><td>67.0</td><td class='positive'>+67↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>21.74</td><td>20.87</td><td>22.52</td><td>22.95</td></tr><tr><td class='ticker'>V</td><td>66.0</td><td class='positive'>+23↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>369.39</td><td>352.70</td><td>384.41</td><td>392.75</td></tr><tr><td class='ticker'>STLA</td><td>65.0</td><td class='positive'>+32↑↑</td><td class='status-wait'>After the trade window · Under-$15 research only</td><td>6.10</td><td>5.49</td><td>6.71</td><td>7.32</td></tr><tr><td class='ticker'>UL</td><td>64.0</td><td class='positive'>+33↑↑</td><td class='status-wait'>After the trade window · Required risk 7.3% exceeds the 7.0% limit</td><td>66.11</td><td></td><td></td><td></td></tr><tr><td class='ticker'>CL</td><td>64.0</td><td class='positive'>+64↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>93.20</td><td>90.88</td><td>95.29</td><td>96.45</td></tr><tr><td class='ticker'>SBUX</td><td>64.0</td><td class='positive'>+64↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>104.59</td><td>101.98</td><td>106.94</td><td>108.25</td></tr><tr><td class='ticker'>NVO</td><td>63.0</td><td class='positive'>+20↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>51.97</td><td>49.04</td><td>54.61</td><td>56.07</td></tr><tr><td class='ticker'>EFA</td><td>62.0</td><td class='positive'>+62↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>104.70</td><td>103.24</td><td>106.01</td><td>106.74</td></tr><tr><td class='ticker'>CSX</td><td>62.0</td><td class='positive'>+19↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>50.92</td><td>49.51</td><td>52.20</td><td>52.91</td></tr><tr><td class='ticker'>CVNA</td><td>61.0</td><td class='positive'>+23↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>69.13</td><td>64.63</td><td>73.18</td><td>75.44</td></tr><tr><td class='ticker'>TTWO</td><td>61.0</td><td class='positive'>+15↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>250.34</td><td>240.65</td><td>259.06</td><td>263.90</td></tr><tr><td class='ticker'>XRT</td><td>61.0</td><td class='positive'>+31↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>92.56</td><td>87.49</td><td>97.13</td><td>99.67</td></tr><tr><td class='ticker'>EA</td><td>60.0</td><td class='positive'>+16↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>208.94</td><td>207.10</td><td>210.61</td><td>211.53</td></tr><tr><td class='ticker'>WMT</td><td>59.0</td><td class='positive'>+5↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>114.29</td><td>110.77</td><td>117.46</td><td>119.23</td></tr><tr><td class='ticker'>PEP</td><td>59.0</td><td class='positive'>+16↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>143.14</td><td>137.49</td><td>148.22</td><td>151.04</td></tr><tr><td class='ticker'>XLF</td><td>59.0</td><td class='positive'>+23↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>57.15</td><td>55.80</td><td>58.36</td><td>59.03</td></tr><tr><td class='ticker'>QRVO</td><td>58.0</td><td class='positive'>+31↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>91.47</td><td>85.27</td><td>97.05</td><td>100.14</td></tr><tr><td class='ticker'>LYV</td><td>58.0</td><td class='positive'>+58↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>184.44</td><td>178.99</td><td>189.35</td><td>192.07</td></tr><tr><td class='ticker'>MELI</td><td>58.0</td><td class='positive'>+20↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>1,892.56</td><td>1,796.55</td><td>1,978.97</td><td>2,026.98</td></tr><tr><td class='ticker'>DUK</td><td>57.0</td><td class='positive'>+13↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>128.73</td><td>125.98</td><td>131.21</td><td>132.58</td></tr><tr><td class='ticker'>ROKU</td><td>57.0</td><td class='positive'>+11↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>145.39</td><td>141.64</td><td>148.76</td><td>150.64</td></tr><tr><td class='ticker'>SO</td><td>57.0</td><td class='positive'>+13↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>96.03</td><td>94.27</td><td>97.60</td><td>98.48</td></tr><tr><td class='ticker'>VICI</td><td>57.0</td><td class='positive'>+16↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>27.05</td><td>26.35</td><td>27.69</td><td>28.04</td></tr><tr><td class='ticker'>NKE</td><td>57.0</td><td class='positive'>+57↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>43.55</td><td>42.21</td><td>44.77</td><td>45.44</td></tr><tr><td class='ticker'>FE</td><td>57.0</td><td class='positive'>+24↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>49.34</td><td>48.22</td><td>50.36</td><td>50.92</td></tr><tr><td class='ticker'>GME</td><td>57.0</td><td class='positive'>+57↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>21.98</td><td>21.53</td><td>22.38</td><td>22.61</td></tr><tr><td class='ticker'>GE</td><td>57.0</td><td class='positive'>+57↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>357.81</td><td>347.08</td><td>367.47</td><td>372.84</td></tr><tr><td class='ticker'>PDD</td><td>56.0</td><td class='positive'>+9↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>89.58</td><td>83.49</td><td>95.06</td><td>98.10</td></tr><tr><td class='ticker'>COST</td><td>56.0</td><td class='positive'>+13↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>973.06</td><td>928.62</td><td>1,013.06</td><td>1,035.28</td></tr><tr><td class='ticker'>RF</td><td>56.0</td><td class='positive'>+13↑↑</td><td class='status-wait'>After the trade window · Setup is not confirmed</td><td>31.19</td><td>30.56</td><td>31.75</td><td>32.06</td></tr><tr><td class='ticker'>DAL</td><td>56.0</td><td class='positive'>+13↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>88.14</td><td>85.51</td><td>90.51</td><td>91.83</td></tr><tr><td class='ticker'>XLV</td><td>56.0</td><td class='positive'>+13↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>167.06</td><td>160.47</td><td>173.00</td><td>176.29</td></tr><tr><td class='ticker'>AEM</td><td>56.0</td><td class='positive'>+56↑↑</td><td class='status-wait'>After the trade window · Sector leadership is lagging</td><td>146.70</td><td>141.90</td><td>151.02</td><td>153.42</td></tr><tr><td class='ticker'>KWEB</td><td>56.0</td><td class='positive'>+16↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>28.13</td><td>26.20</td><td>29.87</td><td>30.84</td></tr><tr><td class='ticker'>SWKS</td><td>56.0</td><td class='positive'>+36↑↑</td><td class='status-wait'>After the trade window · General watch only</td><td>63.11</td><td>59.35</td><td>66.49</td><td>68.37</td></tr></tbody>
+  </table></div>
+  <div class="footer">
+    Showing up to 40 ranked symbols. Boom Stalker is a research
+    and monitoring tool, not individualized financial advice. Confirm prices,
+    risk, and market conditions before making any trading decision.
+  </div>
 </div>
 </body>
 </html>
