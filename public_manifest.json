@@ -1,10 +1,10 @@
 {
-  "market_date": "2026-08-06",
-  "published_at": "2026-08-06T11:07:37",
+  "market_date": "2026-08-07",
+  "published_at": "2026-08-07T11:04:38",
   "scan_count": 2,
   "scan_type": "LIVE",
   "scan_source": "FAST INTRADAY",
-  "market_regime": "Neutral",
+  "market_regime": "Bullish",
   "market_read": "Elevated Risk \u2014 Stay Selective",
   "symbols_shown": 40
 }
