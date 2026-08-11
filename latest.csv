@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-HAL,61.0,+3↑,Setup is not confirmed,33.27,32.23,34.20,34.72
-MVIS,53.0,+12↑↑,Under-$15 research only,4.08,3.68,4.49,4.90
-ATOS,53.0,+53↑↑,Under-$15 research only,2.41,2.17,2.65,2.89
-LLY,52.0,0 →,General watch only,"1,212.19","1,152.33","1,266.06","1,295.99"
-XLE,51.0,+5↑↑,Setup is not confirmed,59.26,57.58,60.77,61.61
-LBRT,50.0,+46↑↑,Volatility: atr 8.5% > 7.0%,20.87,,,
-AVTX,48.0,+48↑↑,Setup is not confirmed,18.87,17.71,19.91,20.49
-MPC,46.0,0 →,Setup is not confirmed,310.47,299.39,320.44,325.98
-CVX,46.0,+2↑,Setup is not confirmed,192.80,187.32,197.73,200.47
-SMMT,46.0,+3↑,Under-$15 research only,14.73,13.26,16.20,17.68
-MS,46.0,+5↑↑,Setup is not confirmed,216.53,210.89,221.61,224.42
-CL,43.0,0 →,Setup is not confirmed,93.13,90.65,95.36,96.61
-OXY,43.0,+3↑,General watch only,57.73,54.70,60.46,61.97
-MRK,42.0,+3↑,Setup is not confirmed,129.66,126.64,132.38,133.89
-QCOM,41.0,-5↓↓,Setup is not confirmed,165.55,157.96,172.38,176.18
-FDX,41.0,+3↑,General watch only,322.77,310.24,334.05,340.32
-XLV,41.0,+3↑,General watch only,167.31,161.14,172.86,175.94
-SCHW,41.0,+3↑,General watch only,108.78,103.19,113.80,116.60
-OCUL,41.0,+3↑,Under-$15 research only,9.24,8.32,10.17,11.09
-CHD,41.0,+6↑↑,General watch only,103.59,98.06,108.58,111.35
-DKNG,40.0,0 →,General watch only,24.64,23.29,25.86,26.53
-ZION,39.0,0 →,Setup is not confirmed,70.56,69.18,71.79,72.48
-PFE,39.0,0 →,Required risk 7.6% exceeds the 7.0% limit,27.00,,,
-XLF,39.0,0 →,Setup is not confirmed,57.92,56.56,59.15,59.83
-RLY,39.0,+2↑,Setup is not confirmed,36.59,35.80,37.30,37.70
-TTI,38.0,0 →,Under-$15 research only,8.59,7.73,9.45,10.31
-DVN,38.0,-6↓↓,Setup is not confirmed,44.69,43.16,46.06,46.82
-GD,38.0,0 →,General watch only,396.13,376.17,414.10,424.09
-XRT,37.0,+13↑↑,Setup is not confirmed,90.89,88.90,92.68,93.67
-JNJ,36.0,-3↓,Setup is not confirmed,259.17,253.19,264.54,267.52
-MRNA,36.0,0 →,General watch only,59.77,56.27,62.92,64.67
-RF,36.0,0 →,Setup is not confirmed,31.39,30.84,31.89,32.16
-EEM,36.0,0 →,Setup is not confirmed,65.19,63.69,66.54,67.29
-AUPH,36.0,0 →,Setup is not confirmed,15.53,14.97,16.02,16.30
-PSX,36.0,0 →,Setup is not confirmed,210.51,202.93,217.33,221.12
-COST,36.0,+36↑↑,Setup is not confirmed,947.41,929.11,963.89,973.04
-XLP,36.0,+36↑↑,Setup is not confirmed,84.97,83.43,86.36,87.13
-XBI,36.0,+3↑,General watch only,157.87,150.33,164.65,168.41
-QQQ,35.0,-3↓,General watch only,722.20,693.82,747.74,761.93
-ROKU,35.0,+2↑,General watch only,152.56,144.34,159.96,164.07
+SE,67.0,+19↑↑,Required risk 18.9% exceeds the 7.0% limit,131.34,,,
+TLN,66.0,+6↑↑,Setup is not confirmed,356.30,337.20,373.49,383.04
+META,63.0,+5↑↑,Setup is not confirmed,610.26,588.15,630.16,641.22
+SBUX,61.0,+7↑↑,Setup is not confirmed,106.41,103.37,109.14,110.66
+FANG,60.0,+19↑↑,General watch only,202.10,192.70,210.56,215.26
+WMT,59.0,+6↑↑,Setup is not confirmed,112.67,110.11,114.98,116.26
+GELS,56.0,+10↑↑,Under-$15 research only,0.60,0.54,0.66,0.72
+BP,54.0,+3↑,Setup is not confirmed,43.20,41.96,44.32,44.94
+JNJ,54.0,+3↑,Setup is not confirmed,259.31,253.30,264.72,267.73
+MRK,54.0,+3↑,Setup is not confirmed,130.02,126.90,132.83,134.39
+MPC,54.0,+3↑,Required risk 8.0% exceeds the 7.0% limit,331.34,,,
+AUPH,54.0,+54↑↑,Setup is not confirmed,15.53,14.98,16.02,16.29
+STZ,54.0,+8↑↑,Setup is not confirmed,132.26,129.38,134.85,136.30
+MELI,53.0,+17↑↑,General watch only,"1,913.11","1,818.37","1,998.38","2,045.75"
+RLY,51.0,+5↑↑,General watch only,36.77,35.88,37.57,38.01
+LEGN,51.0,+5↑↑,General watch only,21.76,20.37,23.01,23.71
+V,50.0,+3↑,Setup is not confirmed,363.96,356.21,370.93,374.81
+DKNG,49.0,+3↑,Required risk 8.6% exceeds the 7.0% limit,25.48,,,
+PYPL,49.0,+3↑,General watch only,59.41,56.74,61.82,63.16
+PJT,48.0,+3↑,General watch only,173.59,165.68,180.70,184.65
+PSX,48.0,+5↑↑,Required risk 8.0% exceeds the 7.0% limit,221.75,,,
+VRT,48.0,+12↑↑,Volatility: atr 7.3% > 7.0%,279.16,,,
+XLF,47.0,+3↑,Setup is not confirmed,57.88,56.63,59.01,59.64
+MA,47.0,+3↑,Setup is not confirmed,566.18,550.54,580.26,588.08
+INDA,47.0,+3↑,Setup is not confirmed,50.17,49.08,51.16,51.71
+XLE,46.0,0 →,General watch only,60.70,57.79,63.33,64.79
+SHEL,46.0,+3↑,General watch only,90.64,87.38,93.57,95.20
+EWJ,46.0,+3↑,General watch only,96.68,92.04,100.86,103.18
+HD,46.0,+3↑,General watch only,356.63,336.66,374.61,384.60
+OCUL,46.0,+6↑↑,Under-$15 research only,9.46,8.51,10.41,11.35
+TM,46.0,+15↑↑,General watch only,189.94,182.35,196.76,200.56
+SCHW,46.0,+6↑↑,General watch only,108.02,103.52,112.07,114.32
+BAC,46.0,+6↑↑,General watch only,63.92,61.67,65.95,67.08
+XLY,46.0,+6↑↑,General watch only,119.88,114.32,124.88,127.66
+JPM,46.0,+8↑↑,General watch only,360.22,348.37,370.88,376.81
+ROKU,46.0,+8↑↑,General watch only,152.09,144.82,158.63,162.27
+LLY,46.0,+8↑↑,General watch only,"1,221.42","1,155.90","1,280.39","1,313.15"
+PLUG,46.0,+11↑↑,Under-$15 research only,2.19,1.97,2.41,2.63
+DE,45.0,-5↓↓,Sector leadership is lagging,616.40,598.64,632.39,641.27
+AD,45.0,+3↑,Setup is not confirmed,35.30,34.42,36.09,36.53
