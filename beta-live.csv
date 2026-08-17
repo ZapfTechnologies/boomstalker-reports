@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-NSC,60.0,+2↑,Risk-off market,342.69,335.27,349.37,353.08
-CAT,56.0,+16↑,Risk-off market,885.94,836.27,930.64,955.48
-ADM,56.0,+7↑↑,Risk-off market,81.68,79.29,83.83,85.02
-CSX,54.0,0 →,Risk-off market,50.78,49.90,51.58,52.02
-CMG,54.0,+54↑↑,Risk-off market,33.83,32.27,35.22,36.00
-JBHT,53.0,-2↓,Risk-off market,284.19,273.13,294.14,299.67
-CMI,53.0,+53↑,Risk-off market,643.38,619.25,665.09,677.15
-HLT,53.0,+2↑,Risk-off market,328.11,317.63,337.53,342.76
-JNJ,51.0,0 →,Risk-off market,262.32,256.83,267.26,270.01
-PPL,51.0,0 →,Risk-off market,36.09,35.26,36.84,37.26
-RSG,51.0,0 →,Risk-off market,215.26,210.76,219.31,221.56
-MTB,51.0,0 →,Risk-off market,254.14,248.86,258.89,261.53
-JPM,51.0,+13↑↑,Risk-off market,362.98,352.82,372.12,377.20
-INCY,51.0,+6↑↑,Risk-off market,123.89,118.72,128.54,131.13
-WEC,51.0,0 →,Risk-off market,110.54,108.46,112.41,113.45
-ON,50.0,-5↓↓,Risk-off market,84.00,79.98,87.62,89.63
-UNP,50.0,-10↓,Risk-off market,301.71,292.57,309.93,314.50
-MA,49.0,+12↑,Risk-off market,565.15,554.44,574.79,580.14
-GS,49.0,+49↑↑,Risk-off market,"1,051.68","1,024.34","1,076.29","1,089.96"
-KMI,49.0,+8↑↑,Risk-off market,32.51,31.58,33.34,33.80
-CASY,48.0,-5↓,Risk-off market,872.38,842.24,899.51,914.58
-PFG,46.0,-3↓,Risk-off market,113.92,111.83,115.80,116.85
-AMAT,46.0,-21↓↓,Risk-off market,537.29,504.90,566.44,582.64
-FITB,46.0,-5↓,Risk-off market,58.06,56.89,59.11,59.69
-TECH,46.0,-5↓,Risk-off market,72.33,71.89,72.73,72.95
-RF,46.0,0 →,Risk-off market,31.85,31.07,32.55,32.94
-TFC,46.0,-5↓,Risk-off market,52.84,51.88,53.71,54.19
-MET,46.0,-5↓,Risk-off market,97.33,95.52,98.96,99.87
-WFC,46.0,-5↓,Risk-off market,88.28,86.48,89.90,90.79
-KO,46.0,0 →,Risk-off market,87.08,85.41,88.57,89.41
-PNC,46.0,0 →,Risk-off market,256.00,250.65,260.82,263.49
-XEL,46.0,0 →,Risk-off market,78.94,77.43,80.30,81.05
-USB,46.0,+8↑,Risk-off market,65.24,63.62,66.70,67.50
-KEY,46.0,+13↑,Risk-off market,23.20,22.61,23.72,24.01
-TSN,46.0,+46↑,Risk-off market,58.46,56.82,59.94,60.76
-EOG,45.0,-1↓,Risk-off market,145.25,140.43,149.60,152.01
-TXN,45.0,0 →,Risk-off market,283.79,273.70,292.87,297.92
-WAB,44.0,0 →,Risk-off market,302.65,292.01,312.23,317.55
-LEN,44.0,+8↑,Risk-off market,86.29,83.56,88.75,90.11
-LH,43.0,-14↓,Risk-off market,325.24,305.85,342.68,352.37
+UNP,63.0,+3↑,After the trade window · Risk-off market,301.16,292.57,308.89,313.18
+HLT,61.0,+10↑↑,After the trade window · Risk-off market,326.90,317.63,335.24,339.87
+NSC,60.0,+2↑,After the trade window · Risk-off market,342.30,335.27,348.63,352.14
+CMI,55.0,+55↑↑,After the trade window · Risk-off market,644.53,620.41,666.24,678.30
+CSX,54.0,0 →,After the trade window · Risk-off market,50.71,49.83,51.51,51.95
+JBHT,53.0,-2↓,After the trade window · Risk-off market,284.10,273.13,293.96,299.44
+ADM,52.0,+3↑,After the trade window · Risk-off market,81.26,78.87,83.41,84.60
+PPL,51.0,0 →,After the trade window · Risk-off market,36.06,35.26,36.79,37.19
+ON,50.0,-5↓,After the trade window · Risk-off market,84.21,80.19,87.83,89.84
+CAT,46.0,+6↑,After the trade window · Risk-off market,886.50,836.27,931.70,956.81
+GS,49.0,+49↑,After the trade window · Risk-off market,"1,053.03","1,025.69","1,077.64","1,091.31"
+MA,49.0,+12↑,After the trade window · Risk-off market,564.08,553.36,573.71,579.07
+TFC,49.0,-2↓,After the trade window · Risk-off market,52.77,51.88,53.58,54.02
+CASY,48.0,-5↓,After the trade window · Risk-off market,873.53,842.24,901.70,917.34
+MTB,46.0,-5↓↓,After the trade window · Risk-off market,253.83,248.86,258.30,260.78
+JPM,46.0,+8↑,After the trade window · Risk-off market,362.61,352.82,371.42,376.31
+AMAT,46.0,-21↓,After the trade window · Risk-off market,538.61,506.22,567.76,583.96
+FITB,46.0,-5↓,After the trade window · Risk-off market,57.82,56.84,58.70,59.19
+TECH,46.0,-5↓,After the trade window · Risk-off market,72.36,71.89,72.77,73.00
+RF,46.0,0 →,After the trade window · Risk-off market,31.80,31.07,32.47,32.83
+WFC,46.0,-5↓,After the trade window · Risk-off market,88.22,86.48,89.78,90.65
+PNC,46.0,0 →,After the trade window · Risk-off market,255.52,250.65,259.91,262.34
+XEL,46.0,0 →,After the trade window · Risk-off market,78.95,77.45,80.31,81.07
+USB,46.0,+8↑,After the trade window · Risk-off market,65.11,63.62,66.44,67.18
+KEY,46.0,+13↑,After the trade window · Risk-off market,23.15,22.61,23.63,23.90
+TSN,46.0,+46↑,After the trade window · Risk-off market,58.35,56.71,59.83,60.65
+RJF,46.0,+13↑↑,After the trade window · Risk-off market,179.67,174.57,184.26,186.80
+INCY,45.0,0 →,After the trade window · Risk-off market,123.50,118.72,127.81,130.21
+TXN,45.0,0 →,After the trade window · Risk-off market,284.42,274.33,293.50,298.55
+KMI,44.0,+3↑,After the trade window · Risk-off market,32.42,31.58,33.19,33.61
+WAB,44.0,0 →,After the trade window · Risk-off market,303.09,292.01,313.07,318.61
+LEN,44.0,+8↑,After the trade window · Risk-off market,86.39,83.66,88.84,90.21
+LH,43.0,-14↓,After the trade window · Risk-off market,324.54,305.85,341.35,350.70
+CPRT,43.0,+22↑↑,After the trade window · Required risk 9.0% exceeds the 7.0% limit,31.68,,,
+EOG,42.0,-4↓↓,After the trade window · Risk-off market,145.53,140.43,150.11,152.66
+WMT,41.0,+5↑,After the trade window · Risk-off market,114.02,111.08,116.66,118.12
+HBAN,41.0,0 →,After the trade window · Risk-off market,17.95,17.40,18.44,18.71
+IWM,41.0,0 →,After the trade window · Risk-off market,303.71,295.47,311.14,315.26
+BBY,41.0,0 →,After the trade window · Risk-off market,85.67,82.92,88.15,89.52
+DHI,41.0,0 →,After the trade window · Risk-off market,148.22,143.72,152.26,154.51
