@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-NSC,60.0,+2↑,Setup is not confirmed,342.52,335.27,349.05,352.67
-CAT,56.0,+16↑↑,General watch only,882.76,836.27,924.60,947.84
-JBHT,55.0,0 →,General watch only,286.65,273.13,298.81,305.57
-CSX,54.0,0 →,Setup is not confirmed,50.90,50.01,51.69,52.13
-JNJ,54.0,+3↑,Setup is not confirmed,263.45,256.83,269.41,272.72
-TFC,54.0,+3↑,Setup is not confirmed,53.20,51.88,54.37,55.03
-SNDK,54.0,0 →,Volatility: atr 8.6% > 7.0%,"1,791.20",,,
-COHR,54.0,+24↑↑,Volatility: atr 10.1% > 7.0%,358.85,,,
-ON,53.0,-2↓,General watch only,85.21,81.19,88.83,90.84
-HLT,53.0,+2↑,General watch only,329.91,317.63,340.96,347.10
-INCY,53.0,+8↑↑,Setup is not confirmed,122.14,118.57,125.34,127.13
-FITB,51.0,0 →,Setup is not confirmed,58.29,56.89,59.55,60.24
-TECH,51.0,0 →,Setup is not confirmed,72.42,71.89,72.90,73.17
-PFG,51.0,+2↑,Setup is not confirmed,114.59,111.94,116.98,118.30
-MTB,51.0,0 →,Setup is not confirmed,254.79,248.86,260.12,263.09
-MET,51.0,0 →,Setup is not confirmed,97.88,95.52,100.00,101.18
-WFC,51.0,0 →,Setup is not confirmed,88.87,86.48,91.02,92.21
-RF,51.0,+5↑↑,Setup is not confirmed,31.91,31.07,32.66,33.07
-UNP,50.0,-10↓↓,General watch only,301.72,292.57,309.95,314.52
-GS,49.0,+49↑,Setup is not confirmed,"1,051.31","1,023.96","1,075.91","1,089.58"
-KO,49.0,+3↑,Setup is not confirmed,87.15,85.41,88.72,89.59
-AMAT,48.0,-19↓↓,General watch only,537.00,504.61,566.15,582.35
-WAB,48.0,+4↑↑,General watch only,303.98,292.01,314.76,320.74
-CASY,47.0,-6↓↓,Sector leadership is lagging,869.39,842.24,893.83,907.41
-PPL,46.0,-5↓,Sector leadership is lagging,35.95,35.26,36.56,36.90
-EOG,46.0,0 →,Setup is not confirmed,143.83,139.66,147.59,149.67
-PNC,46.0,0 →,Setup is not confirmed,256.75,250.65,262.24,265.29
-XEL,46.0,0 →,Sector leadership is lagging,78.81,77.30,80.17,80.92
-TSN,46.0,+46↑↑,Setup is not confirmed,58.28,56.64,59.76,60.58
-TXN,45.0,0 →,Setup is not confirmed,284.31,274.22,293.39,298.44
-LH,45.0,-12↓,General watch only,324.75,305.85,341.77,351.22
-LEN,44.0,+8↑,Sector leadership is lagging,86.48,83.75,88.94,90.30
-HBAN,41.0,0 →,General watch only,18.05,17.40,18.63,18.95
-IWM,41.0,0 →,General watch only,304.16,295.47,311.98,316.33
-BBY,41.0,0 →,Sector leadership is lagging,85.77,83.02,88.25,89.62
-DHI,41.0,0 →,Sector leadership is lagging,148.49,143.99,152.54,154.79
-BAC,41.0,0 →,General watch only,64.86,62.35,67.13,68.39
-QQQ,41.0,0 →,General watch only,732.77,699.81,762.43,778.92
-BNY,41.0,+3↑,General watch only,165.27,157.60,172.18,176.01
-UAL,41.0,+41↑↑,Setup is not confirmed,124.38,120.30,128.04,130.08
+NSC,60.0,+2↑,Risk-off market,343.09,335.27,350.13,354.04
+CSX,58.0,+4↑↑,Risk-off market,50.92,50.04,51.72,52.16
+CAT,56.0,+16↑,Risk-off market,884.24,836.27,927.41,951.40
+JBHT,55.0,0 →,Risk-off market,286.87,273.13,299.23,306.10
+CMI,53.0,+53↑↑,Risk-off market,643.30,619.18,665.01,677.07
+ON,52.0,-3↓,Risk-off market,84.33,80.30,87.94,89.95
+JNJ,51.0,0 →,Risk-off market,262.46,256.83,267.54,270.36
+HLT,51.0,0 →,Risk-off market,329.04,317.63,339.30,345.00
+FITB,51.0,0 →,Risk-off market,58.16,56.89,59.29,59.92
+TECH,51.0,0 →,Risk-off market,72.41,71.89,72.87,73.12
+PFG,51.0,+2↑,Risk-off market,114.38,111.94,116.58,117.80
+MTB,51.0,0 →,Risk-off market,254.43,248.86,259.43,262.21
+RF,51.0,+5↑,Risk-off market,31.93,31.07,32.69,33.12
+UNP,50.0,-10↓,Risk-off market,302.19,292.57,310.84,315.65
+LH,48.0,-9↓,Risk-off market,324.20,305.85,340.71,349.89
+GS,46.0,+46↑,Risk-off market,"1,048.57","1,021.22","1,073.17","1,086.84"
+KMI,49.0,+8↑↑,Risk-off market,32.51,31.58,33.34,33.80
+AMAT,48.0,-19↓,Risk-off market,535.01,502.62,564.16,580.36
+WAB,48.0,+4↑,Risk-off market,303.79,292.01,314.40,320.29
+CASY,47.0,-6↓,Risk-off market,868.29,842.24,891.75,904.78
+TFC,46.0,-5↓↓,Risk-off market,53.09,51.88,54.17,54.77
+MET,46.0,-5↓↓,Risk-off market,97.61,95.52,99.49,100.53
+WFC,46.0,-5↓↓,Risk-off market,88.78,86.48,90.84,91.98
+KO,46.0,0 →,Risk-off market,87.01,85.41,88.45,89.25
+PPL,46.0,-5↓,Risk-off market,35.99,35.26,36.65,37.02
+PNC,46.0,0 →,Risk-off market,256.20,250.65,261.21,263.99
+XEL,46.0,0 →,Risk-off market,78.79,77.28,80.15,80.90
+USB,46.0,+8↑↑,Risk-off market,65.38,63.62,66.96,67.84
+KEY,46.0,+13↑↑,Risk-off market,23.25,22.61,23.83,24.15
+EOG,45.0,-1↓,Risk-off market,144.79,140.43,148.73,150.91
+LEN,44.0,+8↑,Risk-off market,86.39,83.66,88.85,90.21
+INCY,42.0,-3↓,Risk-off market,123.38,118.72,127.58,129.92
+TXN,41.0,-4↓↓,Risk-off market,283.42,273.33,292.50,297.55
+HBAN,41.0,0 →,Risk-off market,18.02,17.40,18.59,18.90
+IWM,41.0,0 →,Risk-off market,303.72,295.47,311.15,315.27
+BBY,41.0,0 →,Risk-off market,85.92,83.17,88.40,89.78
+DHI,41.0,0 →,Risk-off market,148.71,144.21,152.75,155.00
+BNY,41.0,+3↑,Risk-off market,165.46,157.60,172.54,176.47
+BAC,41.0,0 →,Risk-off market,64.69,62.35,66.79,67.96
+NTRS,41.0,+3↑,Risk-off market,193.49,182.58,203.31,208.76
