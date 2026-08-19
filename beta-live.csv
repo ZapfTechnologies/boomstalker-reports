@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-COIN,89.0,+14↑↑,Top-ranked setup with strong structure · Trend +14↑↑ · Accelerating,160.18,149.49,169.79,175.13
-EL,83.0,-3↓,Required risk 14.9% exceeds the 7.0% limit,98.91,,,
-MRK,81.0,-5↓↓,Required risk 14.4% exceeds the 7.0% limit,151.83,,,
-KHC,76.0,+62↑↑,Setup is not confirmed,25.77,25.03,26.45,26.82
-MRNA,73.0,-8↓↓,Volatility: atr 7.1% > 7.0%,149.65,,,
-MCO,71.0,-3↓,General watch only,500.74,476.26,522.77,535.01
-ARE,71.0,+59↑↑,Sector leadership is lagging,49.95,47.97,51.73,52.72
-PGR,70.0,-17↓↓,General watch only,216.59,209.81,222.69,226.08
-TSN,68.0,+8↑,Trend: Not turning,59.01,57.23,60.61,61.50
-AOS,66.0,0 →,Sector leadership is lagging,63.31,61.32,65.10,66.10
-FICO,66.0,-3↓,General watch only,"1,159.17","1,102.73","1,209.96","1,238.17"
-PHM,66.0,+10↑,Trend: Not turning,130.99,127.10,134.49,136.43
-ECL,66.0,+10↑↑,Momentum building with confirmation · Trend +10↑↑ · Rebounding,284.70,276.42,292.15,296.29
-LOW,66.0,-34↓↓,General watch only,221.99,212.83,230.22,234.80
-NVR,65.0,+1↑,Trend: Not turning,"6,404.20","6,243.39","6,548.93","6,629.33"
-MRSH,65.0,-3↓,Trend: Not turning,190.60,187.02,193.83,195.62
-HD,65.0,-8↓↓,Trend: Not turning,344.81,336.03,352.71,357.10
-LEN,65.0,-13↓↓,General watch only,87.63,84.42,90.52,92.13
-TGT,64.0,-20↓↓,Required risk 9.6% exceeds the 7.0% limit,161.46,,,
-JKHY,63.0,-5↓↓,Required risk 7.5% exceeds the 7.0% limit,164.75,,,
-UNP,62.0,-5↓↓,Sector leadership is lagging,301.73,293.46,309.17,313.31
-PM,62.0,+52↑↑,Setup is not confirmed,190.03,185.88,193.76,195.83
-ZTS,61.0,-3↓,General watch only,77.23,73.85,80.27,81.97
-RSG,61.0,+6↑,General watch only,223.50,212.22,233.65,239.29
-XYZ,60.0,-3↓,Sector leadership is lagging,81.59,78.96,83.95,85.27
-CMG,59.0,-12↓↓,General watch only,35.23,33.23,37.03,38.03
-CSX,59.0,-10↓↓,Sector leadership is lagging,50.88,50.00,51.67,52.11
-MSCI,59.0,-3↓,Setup is not confirmed,568.45,555.40,580.19,586.72
-V,59.0,-3↓,Setup is not confirmed,368.82,360.67,376.17,380.25
-TRMB,59.0,-3↓,General watch only,59.80,56.01,63.22,65.12
-INVH,59.0,-3↓,Sector leadership is lagging,30.11,29.57,30.58,30.85
-AZO,59.0,+4↑,Setup is not confirmed,"3,094.25","3,012.63","3,167.70","3,208.51"
-XEL,59.0,0 →,Sector leadership is lagging,79.49,78.11,80.73,81.43
-JNJ,59.0,+7↑,General watch only,273.88,258.82,287.44,294.97
-A,59.0,-5↓,Required risk 8.4% exceeds the 7.0% limit,155.22,,,
-BRO,58.0,-11↓↓,Setup is not confirmed,72.10,69.84,74.13,75.26
-ADP,58.0,-6↓↓,General watch only,278.40,263.91,291.44,298.68
-VLTO,58.0,-3↓,General watch only,99.79,95.36,103.77,105.99
-BBY,57.0,+3↑,General watch only,89.28,84.26,93.79,96.30
-HLT,57.0,+2↑,General watch only,334.70,318.23,349.53,357.76
+COIN,89.0,+14↑,After the trade window · Trade criteria passed,159.44,149.49,168.39,173.36
+EL,83.0,-3↓,After the trade window · Required risk 15.2% exceeds the 7.0% limit,99.28,,,
+MRK,81.0,-5↓↓,After the trade window · Required risk 14.8% exceeds the 7.0% limit,152.53,,,
+MRNA,78.0,-3↓,After the trade window · Required risk 62.1% exceeds the 7.0% limit,153.60,,,
+KHC,76.0,+62↑,After the trade window · Setup is not confirmed,25.84,25.10,26.52,26.89
+AOS,74.0,+8↑↑,After the trade window · Sector leadership is lagging,63.12,61.32,64.74,65.64
+ARE,73.0,+61↑↑,After the trade window · Sector leadership is lagging,50.36,48.38,52.14,53.13
+CMG,73.0,+2↑,After the trade window · Trade criteria passed,34.41,33.09,35.60,36.26
+PGR,70.0,-17↓,After the trade window · General watch only,216.50,209.81,222.52,225.86
+F,69.0,+3↑,After the trade window · Under-$15 research only,14.45,13.00,15.90,17.34
+TSN,68.0,+8↑,After the trade window · Trend: Not turning,58.99,57.21,60.60,61.49
+NSC,68.0,-5↓,After the trade window · Sector leadership is lagging,345.93,336.29,354.60,359.42
+FICO,66.0,-3↓,After the trade window · General watch only,"1,157.94","1,102.73","1,207.62","1,235.22"
+ECL,66.0,+10↑,After the trade window · Trend: Not turning,284.31,276.42,291.42,295.37
+LOW,66.0,-34↓,After the trade window · General watch only,221.71,212.83,229.70,234.14
+BRO,66.0,-3↓,After the trade window · Trade criteria passed,71.92,69.84,73.79,74.83
+MCO,65.0,-9↓↓,After the trade window · General watch only,499.94,476.26,521.26,533.10
+NVR,65.0,+1↑,After the trade window · Trend: Not turning,"6,391.26","6,230.69","6,535.77","6,616.05"
+LEN,64.0,-14↓↓,After the trade window · Setup is not confirmed,87.18,84.34,89.73,91.15
+MRSH,63.0,-5↓↓,After the trade window · Setup is not confirmed,190.03,186.45,193.26,195.05
+HD,61.0,-12↓↓,After the trade window · Setup is not confirmed,344.21,335.43,352.12,356.51
+JKHY,63.0,-5↓,After the trade window · Required risk 7.3% exceeds the 7.0% limit,164.43,,,
+LLY,63.0,-37↓,After the trade window · Required risk 9.0% exceeds the 7.0% limit,"1,283.85",,,
+PM,62.0,+52↑,After the trade window · Setup is not confirmed,190.37,186.22,194.10,196.17
+ZTS,61.0,-3↓,After the trade window · General watch only,77.17,73.82,80.19,81.87
+XYZ,60.0,-3↓,After the trade window · Sector leadership is lagging,81.42,78.79,83.78,85.10
+STZ,60.0,+60↑↑,After the trade window · Setup is not confirmed,133.79,130.60,136.66,138.25
+UNP,59.0,-8↓↓,After the trade window · Sector leadership is lagging,301.25,293.46,308.26,312.15
+TRMB,59.0,-3↓,After the trade window · General watch only,59.58,56.01,62.79,64.58
+INVH,59.0,-3↓,After the trade window · Sector leadership is lagging,30.07,29.54,30.55,30.82
+AZO,59.0,+4↑,After the trade window · Setup is not confirmed,"3,080.73","3,007.70","3,146.45","3,182.97"
+XEL,59.0,0 →,After the trade window · Sector leadership is lagging,79.52,78.11,80.79,81.50
+ADP,58.0,-6↓,After the trade window · General watch only,277.90,263.91,290.49,297.49
+VLTO,58.0,-3↓,After the trade window · General watch only,99.57,95.36,103.36,105.46
+TAP,58.0,+53↑↑,After the trade window · General watch only,43.06,41.24,44.70,45.61
+LYV,58.0,+7↑↑,After the trade window · Setup is not confirmed,185.44,179.64,190.66,193.56
+DHI,58.0,-11↓,After the trade window · Setup is not confirmed,150.57,145.65,155.00,157.46
+HSY,58.0,+3↑,After the trade window · General watch only,189.36,179.15,198.55,203.65
+BBY,57.0,+3↑,After the trade window · General watch only,89.16,84.26,93.57,96.01
+HLT,57.0,+2↑,After the trade window · General watch only,334.35,318.23,348.86,356.92
