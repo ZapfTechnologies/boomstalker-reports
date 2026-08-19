@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-EIX,74.0,+58↑,After the trade window · Risk-off market,73.82,71.33,76.06,77.31
-MNST,64.0,-2↓,After the trade window · Risk-off market,47.26,46.00,48.40,49.03
-JKHY,64.0,+58↑,After the trade window · Risk-off market,154.99,150.36,159.15,161.47
-TRGP,64.0,-12↓,After the trade window · Required risk 10.4% exceeds the 7.0% limit,297.16,,,
-SPGI,63.0,+2↑,After the trade window · Risk-off market,421.21,411.78,429.70,434.41
-V,61.0,-5↓,After the trade window · Risk-off market,365.56,358.98,371.48,374.77
-MCO,60.0,+2↑,After the trade window · Risk-off market,489.00,475.86,500.83,507.40
-KDP,60.0,-2↓,After the trade window · Risk-off market,31.05,29.94,32.04,32.59
-PEP,58.0,+4↑,After the trade window · Risk-off market,140.44,137.92,142.72,143.98
-AWK,58.0,+4↑,After the trade window · Risk-off market,136.94,133.53,140.00,141.71
-AZO,56.0,-4↓,After the trade window · Risk-off market,"3,113.89","3,003.08","3,213.61","3,269.02"
-JNJ,56.0,+6↑,After the trade window · Risk-off market,270.96,257.51,283.06,289.79
-CME,55.0,0 →,After the trade window · Risk-off market,272.35,260.10,283.37,289.49
-BBY,55.0,-2↓,After the trade window · Risk-off market,87.84,84.17,91.14,92.98
-MDLZ,54.0,0 →,After the trade window · Risk-off market,62.94,61.51,64.23,64.94
-BAC,54.0,0 →,After the trade window · Risk-off market,64.09,62.46,65.55,66.37
-RF,54.0,+8↑,After the trade window · Risk-off market,31.75,31.10,32.34,32.67
-XEL,51.0,0 →,After the trade window · Risk-off market,79.36,77.90,80.67,81.40
-ABBV,53.0,-8↓,After the trade window · Risk-off market,257.86,248.79,266.02,270.55
-ELV,53.0,+6↑↑,After the trade window · Risk-off market,401.96,382.59,419.40,429.09
-BIIB,52.0,+16↑,After the trade window · Risk-off market,213.62,203.22,222.98,228.17
-COST,51.0,-3↓,After the trade window · Risk-off market,962.70,942.55,980.83,990.91
-PFG,51.0,0 →,After the trade window · Risk-off market,113.61,111.52,115.49,116.53
-MET,51.0,0 →,After the trade window · Risk-off market,97.30,95.59,98.84,99.70
-GD,51.0,0 →,After the trade window · Risk-off market,393.75,384.49,402.09,406.72
-WEC,51.0,0 →,After the trade window · Risk-off market,110.71,108.78,112.45,113.41
-PSA,51.0,0 →,After the trade window · Risk-off market,326.42,319.13,332.98,336.62
-PNC,51.0,+5↑,After the trade window · Risk-off market,254.86,250.73,258.58,260.64
-JPM,51.0,+17↑,After the trade window · Risk-off market,362.29,353.80,369.93,374.17
-RJF,51.0,+13↑↑,After the trade window · Risk-off market,180.11,175.14,184.58,187.06
-TFC,51.0,+5↑↑,After the trade window · Risk-off market,52.62,51.82,53.35,53.76
-MA,50.0,-7↓,After the trade window · Risk-off market,577.81,556.47,597.02,607.69
-LMT,50.0,+2↑,After the trade window · Risk-off market,607.91,577.36,635.40,650.68
-ICE,50.0,+9↑,After the trade window · Risk-off market,157.51,149.29,164.92,169.03
-ECL,49.0,0 →,After the trade window · Risk-off market,280.06,274.40,285.15,287.98
-TECH,49.0,-5↓,After the trade window · Risk-off market,72.32,71.94,72.66,72.85
-NFLX,49.0,+14↑,After the trade window · Required risk 7.5% exceeds the 7.0% limit,78.44,,,
-TSN,49.0,+5↑↑,After the trade window · Risk-off market,58.71,57.00,60.25,61.11
-KEY,49.0,0 →,After the trade window · Risk-off market,22.84,22.45,23.18,23.37
-KMI,48.0,-2↓,After the trade window · Risk-off market,32.84,31.57,33.99,34.63
+LOW,100.0,0 →,Trend: Need +2,224.58,212.83,235.15,241.02
+PGR,95.0,+8↑↑,Setup is not confirmed,213.71,209.16,217.81,220.09
+COIN,94.0,+19↑↑,Momentum breakout accelerating · Trend +19↑↑ · Accelerating,160.53,149.49,170.48,176.00
+MRK,88.0,+2↑,Required risk 12.9% exceeds the 7.0% limit,149.28,,,
+EL,88.0,+2↑,Required risk 14.1% exceeds the 7.0% limit,97.94,,,
+TGT,86.0,+2↑,Required risk 8.9% exceeds the 7.0% limit,160.27,,,
+LLY,84.0,-16↓↓,Required risk 8.0% exceeds the 7.0% limit,"1,270.35",,,
+AAPL,80.0,+2↑,Sector leadership is lagging,317.95,309.67,325.40,329.54
+PODD,79.0,+10↑↑,Setup is not confirmed,153.62,145.09,161.31,165.58
+MRNA,78.0,-3↓,Volatility: atr 7.2% > 7.0%,146.95,,,
+SPGI,76.0,+2↑,General watch only,433.17,412.22,452.03,462.51
+NSC,75.0,+2↑,General watch only,350.11,336.29,362.54,369.44
+HD,75.0,+2↑,Setup is not confirmed,348.57,337.70,358.35,363.79
+PFE,74.0,+2↑,Required risk 9.4% exceeds the 7.0% limit,28.34,,,
+CMG,73.0,+2↑,General watch only,34.91,33.23,36.43,37.27
+DHI,71.0,+2↑,General watch only,154.05,145.65,161.61,165.82
+BRO,71.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,71.69,69.83,73.36,74.29
+CSX,71.0,+2↑,Sector leadership is lagging,51.10,50.22,51.90,52.33
+MAS,71.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,75.86,73.67,77.82,78.92
+KR,71.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,57.35,56.10,58.48,59.10
+MRVL,59.0,-10↓↓,Volatility: atr 7.4% > 7.0%,234.00,,,
+BF-B,71.0,+60↑↑,Momentum building with confirmation · Trend +60↑↑ · Rebounding,28.07,27.28,28.79,29.19
+LEN,70.0,-8↓↓,General watch only,89.24,84.42,93.58,95.99
+MRSH,70.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,191.12,187.24,194.61,196.55
+CTAS,70.0,+2↑,Sector leadership is lagging,205.43,201.19,209.24,211.37
+MCO,69.0,-5↓↓,General watch only,505.55,476.26,531.91,546.55
+BMY,69.0,-4↓↓,Trend: Losing leadership,67.78,63.42,71.71,73.89
+IDXX,68.0,-6↓↓,Trend: Not turning,574.17,552.85,593.36,604.02
+PSA,68.0,+2↑,Sector leadership is lagging,328.02,321.72,333.69,336.84
+VZ,68.0,+2↑,General watch only,49.41,46.73,51.82,53.15
+F,68.0,+2↑,Under-$15 research only,14.30,12.87,15.73,17.16
+ABBV,68.0,+2↑,General watch only,263.43,249.41,276.05,283.06
+V,68.0,+6↑↑,Momentum building with confirmation · Trend +6↑↑ · Rebounding,369.90,360.67,378.21,382.83
+MSCI,68.0,+6↑↑,Momentum building with confirmation · Trend +6↑↑ · Rebounding,573.82,560.77,585.56,592.09
+ORLY,68.0,+8↑↑,Momentum building with confirmation · Trend +8↑↑ · Rebounding,92.39,89.88,94.64,95.89
+PEP,67.0,+5↑↑,Setup is not confirmed,141.62,138.29,144.62,146.29
+TSN,67.0,+7↑↑,Momentum building with confirmation · Trend +7↑↑ · Rebounding,59.48,57.56,61.22,62.18
+MDLZ,67.0,+11↑↑,Setup is not confirmed,63.47,61.67,65.09,65.98
+AOS,66.0,0 →,General watch only,63.40,61.32,65.27,66.31
+EIX,66.0,+2↑,Sector leadership is lagging,73.89,71.48,76.06,77.27
