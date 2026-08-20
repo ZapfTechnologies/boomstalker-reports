@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-COIN,99.0,+24↑↑,After the trade window · Trade criteria passed,158.40,149.49,166.42,170.87
-EL,86.0,0 →,After the trade window · Required risk 15.4% exceeds the 7.0% limit,99.52,,,
-MRK,84.0,-2↓,After the trade window · Required risk 14.9% exceeds the 7.0% limit,152.83,,,
-KHC,82.0,+68↑↑,After the trade window · Setup is not confirmed,25.80,25.05,26.47,26.84
-MRNA,81.0,0 →,After the trade window · Required risk 63.1% exceeds the 7.0% limit,157.62,,,
-ARE,76.0,+64↑↑,After the trade window · Sector leadership is lagging,50.48,48.50,52.26,53.25
-AAPL,76.0,-2↓,After the trade window · Setup is not confirmed,316.55,308.27,324.00,328.14
-PGR,73.0,-14↓,After the trade window · General watch only,216.46,209.81,222.44,225.76
-F,72.0,+6↑↑,After the trade window · Under-$15 research only,14.37,12.93,15.80,17.24
-TGT,72.0,-12↓,After the trade window · Required risk 9.0% exceeds the 7.0% limit,160.31,,,
-CMG,71.0,0 →,After the trade window · General watch only,34.70,33.23,36.02,36.76
-NSC,71.0,-2↓,After the trade window · Sector leadership is lagging,345.94,336.29,354.62,359.45
-FICO,69.0,0 →,After the trade window · General watch only,"1,161.50","1,102.73","1,214.39","1,243.78"
-ECL,69.0,+13↑↑,After the trade window · Sector leadership is lagging,284.29,276.42,291.37,295.31
-BRO,69.0,0 →,After the trade window · Trade criteria passed,71.59,69.73,73.26,74.19
-LOW,69.0,-31↓,After the trade window · General watch only,221.16,212.83,228.64,232.80
-TRMB,69.0,+7↑↑,After the trade window · General watch only,59.31,56.01,62.28,63.93
-PHM,69.0,+13↑↑,After the trade window · Trade criteria passed,130.36,126.47,133.86,135.80
-NVR,68.0,+4↑↑,After the trade window · Trade criteria passed,"6,376.19","6,215.63","6,520.71","6,600.99"
-HD,68.0,-5↓,After the trade window · Trade criteria passed,344.35,335.57,352.25,356.64
-PFE,68.0,-4↓,After the trade window · Required risk 9.1% exceeds the 7.0% limit,28.23,,,
-TSN,67.0,+7↑,After the trade window · Setup is not confirmed,58.73,56.95,60.34,61.23
-LEN,67.0,-11↓,After the trade window · Trade criteria passed,87.12,84.28,89.67,91.09
-MRSH,66.0,-2↓,After the trade window · Trade criteria passed,189.61,186.03,192.84,194.63
-JKHY,66.0,-2↓,After the trade window · General watch only,163.43,152.38,173.37,178.89
-AOS,64.0,-2↓,After the trade window · General watch only,63.40,61.32,65.27,66.31
-ZTS,64.0,0 →,After the trade window · General watch only,77.12,73.76,80.14,81.81
-DHI,64.0,-5↓,After the trade window · Setup is not confirmed,150.74,145.65,155.32,157.87
-KMB,64.0,+56↑↑,After the trade window · Setup is not confirmed,109.79,106.69,112.58,114.13
-XYZ,63.0,0 →,After the trade window · Setup is not confirmed,81.36,78.73,83.72,85.04
-UNP,62.0,-5↓,After the trade window · Sector leadership is lagging,301.30,293.46,308.36,312.28
-INVH,62.0,0 →,After the trade window · Sector leadership is lagging,30.07,29.54,30.55,30.82
-AZO,62.0,+7↑↑,After the trade window · Setup is not confirmed,"3,087.71","3,012.63","3,155.28","3,192.82"
-XEL,62.0,+3↑,After the trade window · Sector leadership is lagging,79.50,78.11,80.74,81.44
-MA,62.0,+10↑↑,After the trade window · Setup is not confirmed,575.48,559.13,590.20,598.37
-JNJ,62.0,+10↑↑,After the trade window · General watch only,273.98,258.82,287.62,295.20
-ADP,61.0,-3↓,After the trade window · General watch only,277.92,263.91,290.53,297.53
-VLTO,61.0,0 →,After the trade window · General watch only,99.53,95.36,103.27,105.35
-HSY,61.0,+6↑↑,After the trade window · General watch only,189.24,179.15,198.31,203.35
-TAP,61.0,+56↑↑,After the trade window · General watch only,42.83,41.24,44.27,45.06
+PCG,100.0,+10↑↑,Risk-off market,18.17,17.28,18.97,19.42
+DE,98.0,0 →,Risk-off market,631.03,602.47,656.73,671.01
+MOS,93.0,+92↑,Risk-off market,22.86,21.82,23.79,24.31
+NDSN,78.0,-22↓↓,Required risk 9.2% exceeds the 7.0% limit,333.89,,,
+CTVA,71.0,-4↓↓,Risk-off market,81.71,79.25,83.92,85.15
+COIN,71.0,-2↓,Required risk 13.5% exceeds the 7.0% limit,173.63,,,
+AAPL,64.0,+5↑,Risk-off market,317.13,310.86,322.78,325.91
+CBOE,64.0,+52↑↑,Risk-off market,293.21,283.60,301.86,306.66
+SRE,63.0,0 →,Risk-off market,88.06,86.35,89.60,90.46
+SYY,63.0,+52↑↑,Risk-off market,84.28,82.29,86.07,87.06
+ADM,61.0,+16↑↑,Risk-off market,83.41,79.37,87.05,89.07
+PGR,60.0,+6↑↑,Risk-off market,223.06,210.60,234.27,240.50
+VTR,58.0,+56↑↑,Risk-off market,93.48,91.35,95.40,96.46
+CF,58.0,0 →,Risk-off market,125.67,117.76,132.79,136.75
+WST,57.0,+19↑↑,Risk-off market,360.24,342.39,376.31,385.23
+ESS,57.0,+3↑,Risk-off market,290.73,284.62,296.22,299.28
+TSN,56.0,+56↑↑,Risk-off market,58.67,57.05,60.14,60.95
+NSC,55.0,+14↑↑,Risk-off market,351.58,336.06,365.55,373.31
+V,54.0,0 →,Risk-off market,368.78,361.32,375.50,379.23
+CSX,54.0,+3↑,Risk-off market,51.41,50.21,52.48,53.07
+BEN,54.0,+3↑,Risk-off market,34.36,33.45,35.18,35.63
+TPL,54.0,+5↑,Risk-off market,394.42,366.93,419.16,432.90
+XEL,54.0,0 →,Risk-off market,79.77,78.03,81.34,82.21
+EVRG,54.0,+3↑,Risk-off market,84.08,82.72,85.30,85.97
+KO,54.0,+3↑,Risk-off market,91.49,86.62,95.87,98.31
+MRSH,54.0,+3↑,Risk-off market,191.05,187.50,194.24,196.02
+WELL,54.0,+3↑,Risk-off market,238.58,233.81,242.88,245.26
+PM,54.0,+54↑↑,Risk-off market,192.33,187.99,196.24,198.41
+WY,54.0,+54↑↑,Risk-off market,24.84,24.23,25.40,25.70
+DGX,54.0,+13↑↑,Risk-off market,245.12,233.59,255.50,261.26
+O,51.0,+51↑↑,Risk-off market,63.39,62.40,64.28,64.77
+EIX,53.0,0 →,Risk-off market,74.58,71.75,77.13,78.54
+CCI,53.0,+4↑↑,Risk-off market,75.99,73.60,78.14,79.34
+AMCR,53.0,+17↑↑,Risk-off market,48.16,45.80,50.29,51.48
+MAA,52.0,+50↑↑,Risk-off market,133.34,130.86,135.57,136.81
+GD,51.0,0 →,Risk-off market,393.34,386.23,399.73,403.29
+VICI,51.0,+51↑,Risk-off market,26.56,26.13,26.95,27.16
+ETR,51.0,+51↑,Risk-off market,108.58,106.46,110.50,111.56
+AEE,51.0,+51↑,Risk-off market,109.84,108.06,111.45,112.34
+BG,51.0,+1↑,Risk-off market,118.23,110.28,125.38,129.36
