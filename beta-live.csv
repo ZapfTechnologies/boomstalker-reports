@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-COIN,81.0,0 →,Required risk 18.7% exceeds the 7.0% limit,186.32,,,
-DE,80.0,+22↑↑,Sector leadership is lagging,639.95,601.86,674.23,693.28
-MRNA,78.0,+2↑,Volatility: atr 11.1% > 7.0%,143.48,,,
-SYF,76.0,+9↑↑,Setup is not confirmed,79.18,77.42,80.76,81.64
-FCX,74.0,-10↓↓,Required risk 14.4% exceeds the 7.0% limit,76.66,,,
-F,74.0,+64↑,Under-$15 research only,14.43,12.99,15.87,17.32
-KR,73.0,+4↑,Cooldown active until 8/25/26,57.87,56.58,59.02,59.67
-NVR,71.0,+12↑↑,Momentum building with confirmation · Trend +12↑↑ · Rebounding,"6,405.56","6,246.03","6,549.14","6,628.90"
-CTVA,70.0,-9↓↓,General watch only,81.45,78.80,83.83,85.15
-HOOD,69.0,-12↓↓,Required risk 15.8% exceeds the 7.0% limit,108.25,,,
-HCA,68.0,-3↓,General watch only,429.59,402.67,453.82,467.27
-LVS,68.0,+58↑,Trend: Not turning,46.87,45.79,47.83,48.37
-V,67.0,+2↑,Setup is not confirmed,369.94,362.09,376.99,380.92
-ZTS,66.0,+2↑,General watch only,77.32,74.00,80.31,81.97
-TPL,66.0,+2↑,General watch only,382.84,362.95,400.74,410.68
-WAB,66.0,+66↑↑,Sector leadership is lagging,296.87,291.58,301.63,304.27
-LEN,66.0,+7↑↑,Momentum building with confirmation · Trend +7↑↑ · Rebounding,86.97,84.21,89.46,90.84
-IP,65.0,+54↑,Trend: Not turning,41.52,40.39,42.54,43.11
-ULTA,65.0,+60↑,Trend: Not turning,526.48,508.94,542.26,551.03
-AMCR,65.0,+6↑↑,General watch only,48.56,46.01,50.86,52.13
-BSX,65.0,+14↑,General watch only,50.48,48.39,52.35,53.40
-WELL,64.0,+2↑,Setup is not confirmed,239.69,233.70,245.07,248.06
-MRSH,64.0,-1↓,Setup is not confirmed,191.18,187.60,194.40,196.19
-CSX,64.0,+2↑,Sector leadership is lagging,51.35,50.12,52.47,53.09
-VTR,64.0,+10↑,Setup is not confirmed,93.66,91.53,95.58,96.65
-AOS,64.0,+2↑,Sector leadership is lagging,63.20,61.61,64.64,65.44
-ABBV,64.0,+2↑,General watch only,265.47,250.57,278.88,286.34
-BEN,64.0,-5↓,Setup is not confirmed,34.35,33.56,35.07,35.47
-CMG,64.0,+14↑↑,Required risk 8.0% exceeds the 7.0% limit,36.52,,,
-BALL,64.0,+2↑,Setup is not confirmed,63.51,62.12,64.75,65.45
-XYZ,63.0,+4↑,Sector leadership is lagging,81.41,78.68,83.87,85.24
-DLTR,63.0,+6↑,Setup is not confirmed,130.66,127.28,133.70,135.39
-YUM,63.0,+14↑,Setup is not confirmed,151.80,147.47,155.70,157.86
-DHI,62.0,+5↑,Setup is not confirmed,149.10,144.58,153.17,155.43
-BMY,62.0,-1↓,General watch only,67.17,63.88,70.14,71.79
-VICI,61.0,+7↑↑,Setup is not confirmed,26.57,26.15,26.96,27.17
-DGX,61.0,+12↑,General watch only,243.71,234.18,252.29,257.05
-JNJ,61.0,-5↓,General watch only,270.82,259.53,280.98,286.63
-ESS,61.0,+2↑,Setup is not confirmed,288.17,283.40,292.46,294.85
-AES,61.0,+2↑,Under-$15 research only,14.77,13.29,16.24,17.72
+COIN,81.0,0 →,After the trade window · Required risk 18.1% exceeds the 7.0% limit,185.05,,,
+GS,81.0,+81↑↑,After the trade window · Setup is not confirmed,"1,041.09","1,017.54","1,062.28","1,074.06"
+MRNA,78.0,+2↑,After the trade window · Volatility: atr 10.9% > 7.0%,146.75,,,
+SYF,76.0,+9↑,After the trade window · Setup is not confirmed,79.43,77.51,81.16,82.12
+DE,75.0,+17↑,After the trade window · Required risk 8.0% exceeds the 7.0% limit,653.84,,,
+CTVA,75.0,-4↓,After the trade window · Setup is not confirmed,81.36,78.80,83.66,84.94
+FCX,74.0,-10↓,After the trade window · Required risk 14.5% exceeds the 7.0% limit,76.71,,,
+KR,73.0,+4↑,After the trade window · Cooldown active until 8/25/26,57.62,56.34,58.78,59.42
+GM,73.0,+63↑↑,After the trade window · Trade criteria passed,88.05,85.97,89.92,90.96
+LVS,70.0,+60↑,After the trade window · Trend: Not turning,46.99,45.92,47.96,48.50
+PCAR,70.0,+62↑↑,After the trade window · Sector leadership is lagging,132.28,128.99,135.24,136.89
+HOOD,69.0,-12↓,After the trade window · Required risk 15.1% exceeds the 7.0% limit,107.36,,,
+MCK,69.0,+55↑↑,After the trade window · Trade criteria passed,867.42,838.67,893.30,907.68
+HCA,68.0,-3↓,After the trade window · General watch only,429.76,402.67,454.14,467.68
+NVR,67.0,+8↑,After the trade window · Setup is not confirmed,"6,386.69","6,234.98","6,523.23","6,599.08"
+V,67.0,+2↑,After the trade window · Setup is not confirmed,370.91,362.09,378.85,383.26
+WELL,67.0,+5↑↑,After the trade window · Sector leadership is lagging,240.02,233.70,245.71,248.87
+F,66.0,+56↑,After the trade window · Under-$15 research only,14.52,13.06,15.97,17.42
+ZTS,66.0,+2↑,After the trade window · General watch only,77.53,74.00,80.71,82.48
+TPL,66.0,+2↑,After the trade window · General watch only,384.96,363.33,404.43,415.24
+WAB,66.0,+66↑,After the trade window · Sector leadership is lagging,297.54,292.25,302.30,304.94
+LEN,66.0,+7↑↑,After the trade window · Trade criteria passed,86.96,84.20,89.45,90.83
+IP,65.0,+54↑,After the trade window · Trend: Not turning,41.54,40.41,42.56,43.13
+JNJ,65.0,-1↓,After the trade window · General watch only,271.42,259.53,282.12,288.07
+XYZ,65.0,+6↑,After the trade window · Sector leadership is lagging,81.83,79.09,84.29,85.65
+SBUX,65.0,+65↑↑,After the trade window · Trade criteria passed,106.45,103.94,108.71,109.97
+BSX,54.0,+3↑,After the trade window · General watch only,50.41,48.39,52.22,53.23
+CSX,64.0,+2↑,After the trade window · Sector leadership is lagging,51.46,50.12,52.67,53.34
+AOS,64.0,+2↑,After the trade window · Sector leadership is lagging,63.22,61.61,64.67,65.48
+CMG,64.0,+14↑,After the trade window · Required risk 7.8% exceeds the 7.0% limit,36.44,,,
+MRSH,64.0,-1↓,After the trade window · Setup is not confirmed,191.77,188.19,194.99,196.78
+MS,64.0,+64↑↑,After the trade window · Setup is not confirmed,214.03,209.30,218.29,220.66
+ULTA,63.0,+58↑,After the trade window · Setup is not confirmed,524.35,506.81,540.14,548.90
+DLTR,63.0,+6↑,After the trade window · Setup is not confirmed,130.76,127.38,133.81,135.51
+YUM,63.0,+14↑,After the trade window · Setup is not confirmed,151.66,147.47,155.42,157.51
+BMY,62.0,-1↓,After the trade window · General watch only,67.25,63.88,70.27,71.96
+DHI,62.0,+5↑↑,After the trade window · Setup is not confirmed,148.82,144.30,152.89,155.15
+DGX,61.0,+12↑,After the trade window · General watch only,243.54,234.18,251.97,256.65
+AMCR,61.0,+2↑,After the trade window · General watch only,48.45,46.01,50.65,51.87
+VTR,61.0,+7↑,After the trade window · Sector leadership is lagging,93.53,91.52,95.33,96.34
