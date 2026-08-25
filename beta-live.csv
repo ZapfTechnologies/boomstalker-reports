@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-CDNS,84.0,+71↑↑,After the trade window · Setup is not confirmed,331.92,322.95,339.99,344.47
-MRNA,78.0,+5↑↑,After the trade window · Volatility: atr 11.3% > 7.0%,158.63,,,
-UPS,75.0,+49↑↑,After the trade window · Sector leadership is lagging,105.61,103.34,107.65,108.79
-SNPS,74.0,+74↑↑,After the trade window · Trade criteria passed,407.11,396.21,416.92,422.37
-CDW,74.0,+73↑↑,After the trade window · Trade criteria passed,141.21,135.69,146.18,148.94
-NVR,66.0,+15↑↑,After the trade window · Setup is not confirmed,"6,402.94","6,249.84","6,540.73","6,617.28"
-BXP,65.0,+12↑↑,After the trade window · General watch only,71.31,68.23,74.08,75.62
-EQT,64.0,+8↑↑,After the trade window · Setup is not confirmed,54.23,52.67,55.64,56.42
-STE,64.0,+13↑↑,After the trade window · Setup is not confirmed,238.07,231.67,243.84,247.04
-CAH,63.0,+17↑↑,After the trade window · Setup is not confirmed,236.06,229.45,242.00,245.30
-CEG,62.0,+19↑↑,After the trade window · General watch only,279.73,266.62,291.53,298.09
-LVS,61.0,+5↑↑,After the trade window · Setup is not confirmed,47.31,46.10,48.40,49.01
-MSFT,61.0,+10↑↑,After the trade window · Setup is not confirmed,490.64,478.06,501.96,508.25
-LYV,61.0,+5↑↑,After the trade window · Setup is not confirmed,185.16,181.27,188.65,190.59
-KVUE,61.0,+10↑↑,After the trade window · Setup is not confirmed,19.32,18.95,19.64,19.82
-PLD,61.0,+7↑↑,After the trade window · Setup is not confirmed,143.38,140.57,145.90,147.30
-CSX,61.0,+18↑↑,After the trade window · Sector leadership is lagging,51.59,50.19,52.84,53.54
-HSIC,61.0,+22↑↑,After the trade window · Setup is not confirmed,89.58,87.65,91.32,92.29
-IFF,61.0,+8↑↑,After the trade window · General watch only,86.69,82.29,90.65,92.85
-EW,61.0,+61↑↑,After the trade window · Setup is not confirmed,91.11,89.21,92.81,93.76
-GS,60.0,-8↓,After the trade window · General watch only,"1,060.56","1,022.06","1,095.21","1,114.46"
-PG,59.0,+3↑,After the trade window · Setup is not confirmed,145.38,143.13,147.41,148.53
-KMB,59.0,+8↑↑,After the trade window · Setup is not confirmed,110.81,108.51,112.88,114.03
-DOC,58.0,-3↓,After the trade window · General watch only,21.75,21.05,22.37,22.72
-V,58.0,+2↑,After the trade window · General watch only,383.42,363.93,400.96,410.71
-MO,58.0,+12↑↑,After the trade window · Setup is not confirmed,68.37,66.33,70.20,71.22
-MCK,58.0,+17↑↑,After the trade window · General watch only,900.28,852.44,943.33,967.24
-AMD,57.0,+57↑↑,After the trade window · Setup is not confirmed,480.58,460.14,498.97,509.19
-VRSN,56.0,0 →,After the trade window · General watch only,293.85,283.43,303.23,308.44
-CCI,56.0,+5↑↑,After the trade window · Setup is not confirmed,76.07,74.38,77.59,78.43
-TECH,56.0,+2↑,After the trade window · Setup is not confirmed,72.34,72.07,72.59,72.72
-CHD,56.0,+5↑↑,After the trade window · Setup is not confirmed,102.16,99.72,104.36,105.58
-UDR,56.0,+5↑↑,After the trade window · Setup is not confirmed,38.27,37.63,38.85,39.17
-EG,56.0,+5↑↑,After the trade window · Sector leadership is lagging,376.03,367.78,383.46,387.58
-ACGL,56.0,+5↑↑,After the trade window · Sector leadership is lagging,100.80,98.61,102.76,103.85
-MAR,56.0,+5↑↑,After the trade window · Setup is not confirmed,358.39,351.65,364.44,367.81
-WST,56.0,+5↑↑,After the trade window · Setup is not confirmed,350.96,343.82,357.38,360.95
-MRSH,56.0,+13↑↑,After the trade window · Sector leadership is lagging,194.23,189.15,198.80,201.34
-INVH,56.0,+10↑↑,After the trade window · Setup is not confirmed,30.33,29.86,30.75,30.99
-DHI,56.0,+10↑↑,After the trade window · Setup is not confirmed,149.65,145.20,153.66,155.88
+UPS,79.0,+53↑↑,After the trade window · Sector leadership is lagging,106.10,103.34,108.58,109.96
+MRNA,76.0,+3↑,After the trade window · Volatility: atr 11.2% > 7.0%,158.75,,,
+CDNS,72.0,+59↑,After the trade window · Trend: Not turning,330.60,321.63,338.67,343.16
+SNPS,72.0,+72↑,After the trade window · Trend: Not turning,407.81,396.21,418.25,424.05
+CDW,72.0,+71↑,After the trade window · Trend: Not turning,141.00,135.48,145.97,148.73
+BXP,68.0,+15↑↑,After the trade window · General watch only,71.49,68.23,74.42,76.05
+NVR,64.0,+13↑,After the trade window · Sector leadership is lagging,"6,412.78","6,249.84","6,559.43","6,640.90"
+CAH,61.0,+15↑,After the trade window · Setup is not confirmed,235.90,229.29,241.84,245.15
+DOC,61.0,0 →,After the trade window · Setup is not confirmed,21.68,21.05,22.26,22.58
+CHTR,61.0,+15↑↑,After the trade window · General watch only,155.54,146.75,163.45,167.85
+LVS,59.0,+3↑,After the trade window · Sector leadership is lagging,47.32,46.10,48.42,49.03
+MSFT,59.0,+8↑,After the trade window · Setup is not confirmed,490.29,478.06,501.30,507.41
+LYV,59.0,+3↑,After the trade window · Setup is not confirmed,185.83,181.27,189.93,192.21
+KVUE,59.0,+8↑,After the trade window · Setup is not confirmed,19.36,19.00,19.69,19.87
+HSIC,59.0,+20↑,After the trade window · Setup is not confirmed,89.63,87.65,91.42,92.41
+IFF,59.0,+6↑,After the trade window · General watch only,87.02,82.29,91.28,93.64
+EW,59.0,+59↑,After the trade window · Setup is not confirmed,91.17,89.21,92.94,93.92
+MRSH,59.0,+16↑↑,After the trade window · Setup is not confirmed,194.70,189.15,199.69,202.46
+ADP,59.0,+6↑↑,After the trade window · General watch only,283.12,270.05,294.88,301.41
+GS,58.0,-10↓↓,After the trade window · General watch only,"1,061.14","1,022.06","1,096.31","1,115.85"
+EQT,57.0,+1↑,After the trade window · Setup is not confirmed,54.33,52.67,55.82,56.65
+STE,57.0,+6↑,After the trade window · Setup is not confirmed,237.50,231.67,242.75,245.66
+PG,57.0,+1↑,After the trade window · Setup is not confirmed,145.42,143.17,147.45,148.57
+KMB,57.0,+6↑,After the trade window · Setup is not confirmed,110.99,108.60,113.14,114.34
+PHM,57.0,+57↑↑,After the trade window · Sector leadership is lagging,130.92,127.22,134.25,136.11
+IBM,57.0,+57↑↑,After the trade window · Setup is not confirmed,233.58,227.65,238.91,241.88
+O,57.0,+55↑↑,After the trade window · Setup is not confirmed,62.98,62.06,63.80,64.26
+V,56.0,0 →,After the trade window · General watch only,382.67,363.93,399.54,408.91
+ARES,55.0,+55↑↑,After the trade window · General watch only,143.03,136.49,148.92,152.19
+PLD,54.0,0 →,After the trade window · Setup is not confirmed,143.29,140.57,145.75,147.11
+CSX,54.0,+11↑,After the trade window · General watch only,51.62,50.19,52.91,53.63
+MO,54.0,+8↑,After the trade window · Setup is not confirmed,68.16,66.33,69.81,70.72
+VRSN,54.0,-2↓,After the trade window · General watch only,294.52,283.43,304.50,310.05
+CCI,54.0,+3↑,After the trade window · Setup is not confirmed,76.26,74.57,77.78,78.62
+TECH,54.0,0 →,After the trade window · Setup is not confirmed,72.34,72.07,72.59,72.73
+CHD,54.0,+3↑,After the trade window · Setup is not confirmed,102.31,99.72,104.64,105.94
+UDR,54.0,+3↑,After the trade window · Setup is not confirmed,38.28,37.64,38.86,39.18
+EG,54.0,+3↑,After the trade window · Setup is not confirmed,376.31,367.78,383.98,388.24
+ACGL,54.0,+3↑,After the trade window · Setup is not confirmed,100.93,98.61,103.01,104.16
+WST,54.0,+3↑,After the trade window · Setup is not confirmed,350.28,343.14,356.70,360.27
