@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-CTVA,100.0,+45↑↑,Risk-off market,83.81,78.67,88.43,91.00
-MO,88.0,+6↑↑,Risk-off market,68.23,66.68,69.64,70.41
-BXP,75.0,+3↑,Risk-off market,69.36,67.65,70.90,71.76
-ACN,53.0,-13↓↓,Required risk 8.8% exceeds the 7.0% limit,187.34,,,
-VRSN,71.0,+6↑↑,Risk-off market,290.30,282.65,297.19,301.02
-PM,70.0,0 →,Risk-off market,192.25,187.58,196.46,198.79
-ROL,68.0,0 →,Risk-off market,37.55,36.73,38.29,38.70
-CTAS,68.0,0 →,Risk-off market,207.19,202.20,211.68,214.17
-BALL,64.0,-4↓↓,Risk-off market,64.43,62.89,65.81,66.58
-DIS,64.0,-19↓↓,Required risk 7.7% exceeds the 7.0% limit,110.21,,,
-MSCI,64.0,+10↑↑,Risk-off market,571.84,559.15,583.26,589.60
-VRSK,63.0,-7↓↓,Risk-off market,191.08,184.20,197.27,200.71
-AXP,63.0,0 →,Risk-off market,342.92,336.63,348.58,351.73
-KMB,63.0,+3↑,Risk-off market,111.87,108.66,114.76,116.36
-AWK,63.0,+5↑↑,Risk-off market,138.15,134.42,141.51,143.38
-STZ,62.0,-9↓↓,Risk-off market,137.96,131.58,143.69,146.88
-PGR,62.0,0 →,Risk-off market,223.88,211.28,235.21,241.51
-MA,62.0,0 →,Risk-off market,597.08,565.28,625.70,641.60
-DOC,61.0,0 →,Risk-off market,21.44,20.97,21.86,22.10
-COST,61.0,0 →,Risk-off market,962.94,945.06,979.04,987.99
-V,60.0,0 →,Risk-off market,381.23,362.99,397.64,406.76
-KVUE,60.0,-10↓↓,Risk-off market,19.48,19.03,19.88,20.10
-ULTA,60.0,-6↓↓,Risk-off market,534.13,516.21,550.25,559.21
-CHD,60.0,0 →,Risk-off market,101.48,99.31,103.44,104.52
-LULU,59.0,+1↑,Risk-off market,122.11,118.02,125.79,127.84
-GOOGL,57.0,+52↑↑,Risk-off market,349.85,342.00,356.92,360.84
-ACGL,58.0,0 →,Risk-off market,101.36,98.92,103.55,104.77
-EG,58.0,+4↑↑,Risk-off market,375.64,368.60,381.97,385.49
-BF-B,58.0,+3↑,Risk-off market,28.91,27.99,29.74,30.20
-KR,58.0,+4↑↑,Cooldown active until 8/25/26,58.91,56.64,60.95,62.08
-ECL,57.0,0 →,Risk-off market,285.58,278.86,291.64,295.00
-DLTR,57.0,+10↑↑,Risk-off market,134.78,127.93,140.95,144.37
-NVR,57.0,+9↑↑,Risk-off market,"6,423.00","6,253.02","6,575.98","6,660.97"
-KHC,56.0,0 →,Risk-off market,25.78,25.05,26.45,26.81
-WTW,55.0,-2↓,Risk-off market,348.73,332.32,363.49,371.69
-MRSH,55.0,0 →,Risk-off market,194.90,189.02,200.20,203.14
-YUM,55.0,0 →,Risk-off market,156.75,147.98,164.64,169.03
-BRO,55.0,0 →,Risk-off market,74.30,70.67,77.56,79.38
-HSY,55.0,+4↑↑,Risk-off market,189.47,181.17,196.93,201.08
-UDR,54.0,-4↓↓,Risk-off market,38.22,37.57,38.81,39.13
+MRNA,73.0,0 →,Volatility: atr 11.3% > 7.0%,158.15,,,
+COIN,45.0,-19↓↓,Required risk 18.2% exceeds the 7.0% limit,186.56,,,
+GS,62.0,-6↓↓,Setup is not confirmed,"1,050.43","1,022.06","1,075.96","1,090.15"
+DOC,61.0,0 →,Setup is not confirmed,21.61,21.05,22.13,22.41
+VRSK,59.0,+1↑,Sector leadership is lagging,191.49,184.46,197.82,201.34
+SBUX,58.0,-5↓↓,Setup is not confirmed,106.16,103.58,108.49,109.78
+PG,56.0,0 →,Setup is not confirmed,145.41,143.16,147.44,148.57
+EQT,56.0,0 →,Setup is not confirmed,54.23,52.67,55.63,56.41
+LVS,56.0,0 →,Setup is not confirmed,47.24,46.10,48.28,48.85
+PM,56.0,+5↑↑,Setup is not confirmed,191.83,187.12,196.07,198.42
+CCI,56.0,+5↑↑,Setup is not confirmed,76.45,74.69,78.04,78.92
+MSFT,56.0,+5↑↑,Sector leadership is lagging,489.40,478.06,499.61,505.28
+MRSH,56.0,+13↑↑,Setup is not confirmed,194.71,189.15,199.71,202.48
+PLD,54.0,0 →,Setup is not confirmed,142.92,140.57,145.03,146.21
+APD,51.0,-3↓,Sector leadership is lagging,305.97,298.74,312.48,316.09
+ESS,54.0,+3↑,Setup is not confirmed,291.90,284.30,298.74,302.54
+ADP,53.0,0 →,General watch only,282.07,270.05,292.88,298.89
+BXP,53.0,0 →,General watch only,70.67,68.23,72.85,74.07
+IFF,53.0,0 →,General watch only,86.11,82.29,89.55,91.46
+INCY,53.0,+2↑,Required risk 7.1% exceeds the 7.0% limit,130.63,,,
+CTVA,51.0,-5↓↓,General watch only,82.61,78.33,86.46,88.60
+LYV,51.0,-5↓↓,Setup is not confirmed,184.40,180.59,187.82,189.73
+V,51.0,-5↓↓,General watch only,381.54,363.93,397.38,406.19
+TECH,51.0,-3↓,Setup is not confirmed,72.36,72.07,72.61,72.76
+CHD,51.0,0 →,Setup is not confirmed,101.97,99.72,103.98,105.11
+COST,51.0,0 →,Setup is not confirmed,963.79,945.56,980.20,989.31
+KVUE,51.0,0 →,Setup is not confirmed,19.32,18.95,19.64,19.82
+KMB,51.0,0 →,Setup is not confirmed,110.82,108.52,112.89,114.04
+UDR,51.0,0 →,Setup is not confirmed,38.18,37.54,38.76,39.08
+NVR,51.0,0 →,Setup is not confirmed,"6,342.50","6,196.71","6,473.71","6,546.61"
+SJM,51.0,0 →,General watch only,124.96,119.44,129.93,132.69
+VICI,51.0,0 →,Setup is not confirmed,26.48,26.04,26.87,27.08
+EG,51.0,0 →,Setup is not confirmed,374.08,367.18,380.30,383.75
+ACGL,51.0,0 →,Setup is not confirmed,100.26,98.50,101.85,102.74
+VLTO,51.0,0 →,Sector leadership is lagging,98.86,96.50,100.99,102.17
+MAR,51.0,0 →,Setup is not confirmed,359.31,352.57,365.36,368.73
+BALL,51.0,0 →,Setup is not confirmed,63.87,62.71,64.91,65.49
+AES,51.0,0 →,Under-$15 research only,14.74,13.27,16.22,17.69
+WST,51.0,0 →,Setup is not confirmed,350.23,343.09,356.65,360.22
+AOS,51.0,0 →,Sector leadership is lagging,62.42,60.92,63.77,64.52
