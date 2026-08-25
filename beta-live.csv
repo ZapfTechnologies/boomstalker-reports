@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-CTVA,89.0,+34↑↑,After the trade window · Risk-off market,82.65,78.67,86.24,88.23
-MO,81.0,-1↓,After the trade window · Risk-off market,68.09,66.56,69.48,70.25
-BXP,79.0,+7↑,After the trade window · Risk-off market,69.98,68.15,71.62,72.54
-CHD,76.0,+16↑,After the trade window · Risk-off market,101.92,99.58,104.03,105.20
-CTAS,68.0,0 →,After the trade window · Risk-off market,206.94,202.20,211.20,213.57
-ULTA,66.0,0 →,After the trade window · Risk-off market,540.35,517.16,561.22,572.81
-MA,66.0,+4↑↑,After the trade window · Risk-off market,598.13,565.28,627.70,644.12
-V,66.0,+6↑↑,After the trade window · Risk-off market,382.22,362.99,399.53,409.14
-VRSN,65.0,0 →,After the trade window · Risk-off market,290.02,282.37,296.91,300.74
-BALL,64.0,-4↓,After the trade window · Risk-off market,64.28,62.89,65.52,66.21
-COST,63.0,+2↑,After the trade window · Risk-off market,970.32,945.06,993.05,"1,005.68"
-LULU,62.0,+4↑↑,After the trade window · Risk-off market,122.82,118.73,126.50,128.55
-MRSH,61.0,+6↑,After the trade window · Risk-off market,193.82,189.02,198.14,200.55
-DOC,61.0,0 →,After the trade window · Risk-off market,21.57,21.08,22.02,22.26
-ECL,61.0,+4↑,After the trade window · Risk-off market,286.17,278.86,292.74,296.39
-PGR,60.0,-2↓,After the trade window · Risk-off market,223.16,211.28,233.85,239.79
-HAS,58.0,+12↑,After the trade window · Risk-off market,95.37,93.10,97.42,98.56
-EG,58.0,+4↑,After the trade window · Risk-off market,376.40,368.88,383.17,386.93
-ACGL,58.0,0 →,After the trade window · Risk-off market,101.12,98.92,103.11,104.21
-KMB,58.0,-2↓,After the trade window · Risk-off market,111.00,108.53,113.23,114.46
-UDR,58.0,0 →,After the trade window · Risk-off market,38.34,37.69,38.93,39.26
-MAA,58.0,+56↑,After the trade window · Risk-off market,133.31,130.82,135.56,136.80
-KVUE,57.0,-13↓↓,After the trade window · Risk-off market,19.34,18.96,19.69,19.89
-DLTR,57.0,+10↑,After the trade window · Risk-off market,135.22,127.93,141.79,145.44
-WTW,57.0,0 →,After the trade window · Risk-off market,348.92,332.32,363.87,372.17
-BRO,57.0,+2↑,After the trade window · Risk-off market,74.43,70.67,77.81,79.69
-BF-B,56.0,+1↑,After the trade window · Risk-off market,28.71,27.97,29.39,29.76
-AWK,56.0,-2↓,After the trade window · Risk-off market,139.51,134.42,144.10,146.64
-KR,55.0,+1↑,After the trade window · Cooldown active until 8/25/26,58.81,56.64,60.77,61.85
-HSY,55.0,+4↑,After the trade window · Risk-off market,189.68,181.17,197.34,201.60
-YUM,55.0,0 →,After the trade window · Risk-off market,156.66,147.98,164.48,168.82
-ROL,54.0,-14↓,After the trade window · Risk-off market,37.34,36.53,38.08,38.49
-MCD,54.0,0 →,After the trade window · Risk-off market,272.37,267.35,276.88,279.39
-MSCI,54.0,0 →,After the trade window · Risk-off market,570.95,558.26,582.37,588.71
-NVR,54.0,+6↑,After the trade window · Risk-off market,"6,397.34","6,243.01","6,536.24","6,613.41"
-INVH,54.0,0 →,After the trade window · Risk-off market,30.43,29.88,30.94,31.21
-PG,54.0,0 →,After the trade window · Risk-off market,146.16,143.79,148.30,149.48
-AES,53.0,-1↓,After the trade window · Under-$15 research only,14.76,13.28,16.23,17.71
-MCK,53.0,+53↑↑,After the trade window · Risk-off market,873.32,845.02,898.79,912.94
-BKNG,52.0,0 →,After the trade window · Risk-off market,213.86,202.84,223.78,229.29
+MRNA,73.0,0 →,Volatility: atr 11.3% > 7.0%,158.15,,,
+COIN,45.0,-19↓↓,Required risk 18.2% exceeds the 7.0% limit,186.56,,,
+GS,62.0,-6↓↓,Setup is not confirmed,"1,050.43","1,022.06","1,075.96","1,090.15"
+DOC,61.0,0 →,Setup is not confirmed,21.61,21.05,22.13,22.41
+VRSK,59.0,+1↑,Sector leadership is lagging,191.49,184.46,197.82,201.34
+SBUX,58.0,-5↓↓,Setup is not confirmed,106.16,103.58,108.49,109.78
+PG,56.0,0 →,Setup is not confirmed,145.41,143.16,147.44,148.57
+EQT,56.0,0 →,Setup is not confirmed,54.23,52.67,55.63,56.41
+LVS,56.0,0 →,Setup is not confirmed,47.24,46.10,48.28,48.85
+PM,56.0,+5↑↑,Setup is not confirmed,191.83,187.12,196.07,198.42
+CCI,56.0,+5↑↑,Setup is not confirmed,76.45,74.69,78.04,78.92
+MSFT,56.0,+5↑↑,Sector leadership is lagging,489.40,478.06,499.61,505.28
+MRSH,56.0,+13↑↑,Setup is not confirmed,194.71,189.15,199.71,202.48
+PLD,54.0,0 →,Setup is not confirmed,142.92,140.57,145.03,146.21
+APD,51.0,-3↓,Sector leadership is lagging,305.97,298.74,312.48,316.09
+ESS,54.0,+3↑,Setup is not confirmed,291.90,284.30,298.74,302.54
+ADP,53.0,0 →,General watch only,282.07,270.05,292.88,298.89
+BXP,53.0,0 →,General watch only,70.67,68.23,72.85,74.07
+IFF,53.0,0 →,General watch only,86.11,82.29,89.55,91.46
+INCY,53.0,+2↑,Required risk 7.1% exceeds the 7.0% limit,130.63,,,
+CTVA,51.0,-5↓↓,General watch only,82.61,78.33,86.46,88.60
+LYV,51.0,-5↓↓,Setup is not confirmed,184.40,180.59,187.82,189.73
+V,51.0,-5↓↓,General watch only,381.54,363.93,397.38,406.19
+TECH,51.0,-3↓,Setup is not confirmed,72.36,72.07,72.61,72.76
+CHD,51.0,0 →,Setup is not confirmed,101.97,99.72,103.98,105.11
+COST,51.0,0 →,Setup is not confirmed,963.79,945.56,980.20,989.31
+KVUE,51.0,0 →,Setup is not confirmed,19.32,18.95,19.64,19.82
+KMB,51.0,0 →,Setup is not confirmed,110.82,108.52,112.89,114.04
+UDR,51.0,0 →,Setup is not confirmed,38.18,37.54,38.76,39.08
+NVR,51.0,0 →,Setup is not confirmed,"6,342.50","6,196.71","6,473.71","6,546.61"
+SJM,51.0,0 →,General watch only,124.96,119.44,129.93,132.69
+VICI,51.0,0 →,Setup is not confirmed,26.48,26.04,26.87,27.08
+EG,51.0,0 →,Setup is not confirmed,374.08,367.18,380.30,383.75
+ACGL,51.0,0 →,Setup is not confirmed,100.26,98.50,101.85,102.74
+VLTO,51.0,0 →,Sector leadership is lagging,98.86,96.50,100.99,102.17
+MAR,51.0,0 →,Setup is not confirmed,359.31,352.57,365.36,368.73
+BALL,51.0,0 →,Setup is not confirmed,63.87,62.71,64.91,65.49
+AES,51.0,0 →,Under-$15 research only,14.74,13.27,16.22,17.69
+WST,51.0,0 →,Setup is not confirmed,350.23,343.09,356.65,360.22
+AOS,51.0,0 →,Sector leadership is lagging,62.42,60.92,63.77,64.52
