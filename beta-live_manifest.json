@@ -1,10 +1,10 @@
 {
   "market_date": "2026-08-25",
-  "published_at": "2026-08-25T14:04:26",
-  "scan_count": 8,
+  "published_at": "2026-08-25T14:34:36",
+  "scan_count": 9,
   "scan_type": "LIVE",
   "scan_source": "FAST INTRADAY",
   "market_regime": "Neutral",
-  "market_read": "Selective Opportunity",
+  "market_read": "Uneven Conditions",
   "symbols_shown": 40
 }
