@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-META,100.0,+54↑,Top-ranked setup with strong structure · Trend +54↑ · Holding leadership,578.28,560.37,594.40,603.35
-KMI,73.0,0 →,Trend: Not turning,32.02,31.24,32.73,33.13
-SJM,70.0,-19↓↓,Required risk 8.5% exceeds the 7.0% limit,130.47,,,
-ROL,65.0,0 →,Trend: Not turning,37.16,36.34,37.90,38.31
-PH,63.0,0 →,Setup is not confirmed,"1,043.01","1,018.28","1,065.27","1,077.64"
-CHRW,61.0,0 →,General watch only,152.95,144.94,160.15,164.16
-WMB,60.0,-26↓,General watch only,74.09,71.17,76.72,78.17
-GWW,60.0,0 →,Setup is not confirmed,"1,331.06","1,304.49","1,354.97","1,368.25"
-ESS,59.0,0 →,Sector leadership is lagging,289.18,284.10,293.75,296.30
-KVUE,58.0,-28↓,Setup is not confirmed,19.25,18.93,19.54,19.70
-SBUX,58.0,+4↑↑,Sector leadership is lagging,107.37,104.82,109.66,110.94
-CDNS,56.0,0 →,Sector leadership is lagging,332.82,323.21,341.47,346.27
-WAB,54.0,-4↓,Setup is not confirmed,300.93,293.27,307.82,311.65
-CI,54.0,0 →,Setup is not confirmed,282.52,275.20,289.10,292.76
-MRSH,54.0,+8↑,Setup is not confirmed,194.07,188.97,198.66,201.22
-AIZ,54.0,+3↑,Setup is not confirmed,288.31,281.52,294.42,297.82
-HIG,54.0,+54↑,Setup is not confirmed,139.96,137.58,142.10,143.30
-APD,54.0,0 →,Setup is not confirmed,306.94,299.24,313.87,317.73
-FAST,53.0,+7↑,Setup is not confirmed,51.23,50.13,52.22,52.77
-EQT,52.0,-18↓,General watch only,55.24,52.80,57.43,58.65
-CRH,52.0,-1↓,Setup is not confirmed,97.17,94.68,99.40,100.64
-ANET,51.0,-1↓,General watch only,199.35,187.89,209.67,215.40
-VTRS,51.0,-6↓,Setup is not confirmed,16.84,16.45,17.18,17.37
-KMB,51.0,-19↓,Setup is not confirmed,110.45,108.39,112.31,113.34
-LIN,51.0,-6↓,Setup is not confirmed,490.31,482.04,497.74,501.87
-ACGL,51.0,-3↓,Setup is not confirmed,100.64,98.50,102.56,103.63
-MSFT,51.0,-3↓,Sector leadership is lagging,494.72,483.54,504.78,510.37
-CTAS,51.0,0 →,Setup is not confirmed,205.59,201.30,209.46,211.61
-BALL,51.0,+13↑,Sector leadership is lagging,64.20,62.68,65.56,66.32
-NTRS,51.0,+5↑,Setup is not confirmed,187.28,183.60,190.60,192.44
-AMP,51.0,+51↑,Setup is not confirmed,561.31,550.94,570.64,575.82
-DE,51.0,+8↑,General watch only,637.72,603.89,668.17,685.09
-CHD,51.0,+13↑,Setup is not confirmed,102.59,99.93,104.98,106.31
-PLD,49.0,-7↓↓,Sector leadership is lagging,142.80,140.55,144.82,145.94
-JPM,51.0,+51↑↑,Setup is not confirmed,357.81,352.73,362.37,364.91
-EXE,50.0,-8↓,General watch only,97.03,93.70,100.03,101.70
-WST,49.0,+10↑,Setup is not confirmed,352.44,345.26,358.90,362.49
-HSIC,49.0,-2↓,General watch only,90.56,87.96,92.90,94.21
-IP,49.0,0 →,Setup is not confirmed,41.49,40.41,42.48,43.02
-SYF,49.0,+11↑,Setup is not confirmed,80.15,78.20,81.91,82.88
+META,99.0,+53↑,Top-ranked setup with strong structure · Trend +53↑ · Holding leadership,578.33,560.42,594.45,603.40
+KMI,73.0,0 →,Trend: Not turning,32.15,31.27,32.93,33.37
+ROL,67.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,37.14,36.32,37.88,38.29
+PH,65.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,"1,040.59","1,018.28","1,060.67","1,071.83"
+CHRW,63.0,+2↑,General watch only,152.27,144.94,158.87,162.54
+SJM,62.0,-27↓↓,Required risk 8.7% exceeds the 7.0% limit,130.84,,,
+GWW,62.0,+2↑,Setup is not confirmed,"1,333.06","1,304.49","1,358.78","1,373.07"
+WMB,62.0,-24↓,General watch only,74.31,71.17,77.14,78.71
+KVUE,60.0,-26↓,Setup is not confirmed,19.26,18.94,19.55,19.71
+ESS,56.0,-3↓,Setup is not confirmed,288.96,284.10,293.34,295.77
+SBUX,56.0,+2↑,Sector leadership is lagging,107.33,104.78,109.62,110.89
+WAB,56.0,-2↓,Setup is not confirmed,300.75,293.27,307.50,311.24
+CI,56.0,+2↑,Setup is not confirmed,282.25,275.20,288.58,292.10
+AIZ,56.0,+5↑↑,Setup is not confirmed,288.35,281.52,294.50,297.91
+UPS,56.0,+5↑↑,Setup is not confirmed,106.48,103.49,109.17,110.67
+OTIS,56.0,+54↑↑,Setup is not confirmed,72.43,71.04,73.68,74.37
+EQT,54.0,-16↓,General watch only,55.21,52.80,57.38,58.58
+APD,53.0,-1↓,Sector leadership is lagging,306.83,299.24,313.66,317.46
+ANET,53.0,+1↑,General watch only,199.83,187.89,210.58,216.55
+VTRS,53.0,-4↓,Setup is not confirmed,16.83,16.45,17.18,17.37
+KMB,53.0,-17↓,Setup is not confirmed,110.53,108.47,112.39,113.42
+LIN,53.0,-4↓,Sector leadership is lagging,490.50,482.04,498.11,502.34
+ACGL,53.0,-1↓,Setup is not confirmed,100.66,98.50,102.61,103.69
+MSFT,53.0,-1↓,Sector leadership is lagging,494.39,483.54,504.15,509.57
+CTAS,53.0,+2↑,Setup is not confirmed,206.07,201.30,210.36,212.75
+BALL,53.0,+15↑↑,Sector leadership is lagging,64.28,62.68,65.72,66.51
+NTRS,53.0,+7↑↑,Setup is not confirmed,187.45,183.77,190.77,192.61
+AMP,53.0,+53↑↑,Setup is not confirmed,561.19,550.82,570.52,575.70
+CHD,53.0,+15↑↑,Setup is not confirmed,102.77,99.93,105.32,106.73
+CL,53.0,+2↑,Setup is not confirmed,91.91,90.24,93.41,94.25
+EXE,52.0,-6↓,General watch only,97.06,93.70,100.07,101.75
+MRSH,51.0,+5↑,Setup is not confirmed,193.34,188.97,197.29,199.48
+PLD,51.0,-5↓,Setup is not confirmed,142.57,140.55,144.39,145.40
+WST,51.0,+12↑↑,Setup is not confirmed,352.50,345.32,358.96,362.54
+HSIC,51.0,0 →,General watch only,90.57,87.96,92.92,94.23
+IP,51.0,+2↑,Sector leadership is lagging,41.41,40.32,42.39,42.94
+UDR,51.0,+5↑↑,Setup is not confirmed,38.06,37.47,38.60,38.90
+CNC,51.0,+3↑,Setup is not confirmed,65.87,63.80,67.74,68.78
+QCOM,51.0,+22↑↑,Sector leadership is lagging,162.35,157.47,166.74,169.18
+NTAP,51.0,+51↑↑,Sector leadership is lagging,193.20,186.22,199.48,202.98
