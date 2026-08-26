@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-META,100.0,+54↑,Risk-off market,576.70,558.79,592.81,601.77
-SJM,89.0,0 →,Required risk 8.5% exceeds the 7.0% limit,130.51,,,
-ROL,72.0,+7↑,Risk-off market,37.41,36.59,38.15,38.56
-KMI,70.0,-3↓,Risk-off market,32.22,31.27,33.07,33.54
-WMB,60.0,-26↓↓,Risk-off market,74.42,71.17,77.34,78.97
-PH,63.0,0 →,Risk-off market,"1,040.36","1,018.28","1,060.23","1,071.28"
-CHRW,61.0,0 →,Risk-off market,151.55,144.94,157.49,160.80
-GWW,60.0,0 →,Risk-off market,"1,331.72","1,304.49","1,356.22","1,369.84"
-ESS,59.0,0 →,Risk-off market,289.12,284.10,293.64,296.15
-EQT,52.0,-18↓↓,Risk-off market,55.24,52.80,57.44,58.67
-KVUE,58.0,-28↓↓,Risk-off market,19.30,18.98,19.59,19.75
-FTV,58.0,0 →,Risk-off market,60.48,59.38,61.46,62.01
-ANET,58.0,+6↑,Risk-off market,198.30,187.89,207.67,212.88
-KMB,51.0,-19↓↓,Risk-off market,110.59,108.53,112.45,113.48
-WAB,54.0,-4↓↓,Risk-off market,300.69,293.27,307.37,311.08
-LIN,51.0,-6↓↓,Risk-off market,490.99,482.04,499.04,503.52
-SBUX,54.0,0 →,Risk-off market,107.26,104.71,109.55,110.83
-CI,54.0,0 →,Risk-off market,282.78,275.20,289.60,293.39
-OTIS,54.0,+52↑,Risk-off market,72.42,71.03,73.67,74.36
-MRSH,54.0,+8↑,Risk-off market,194.06,188.97,198.65,201.20
-AIZ,54.0,+3↑,Risk-off market,288.80,281.52,295.35,298.99
-HIG,54.0,+54↑,Risk-off market,140.00,137.62,142.14,143.34
-VTRS,54.0,-3↓,Risk-off market,16.89,16.47,17.26,17.47
-WST,54.0,+15↑↑,Risk-off market,352.99,345.79,359.47,363.07
-CDNS,51.0,-5↓,Risk-off market,331.10,321.49,339.75,344.55
-FAST,53.0,+7↑,Risk-off market,51.27,50.13,52.28,52.85
-CRH,52.0,-1↓,Risk-off market,97.23,94.75,99.47,100.71
-MET,51.0,0 →,Risk-off market,96.55,94.93,98.01,98.82
-PLD,51.0,-5↓↓,Risk-off market,142.71,140.55,144.65,145.73
-ACGL,51.0,-3↓,Risk-off market,100.83,98.50,102.93,104.10
-MSFT,51.0,-3↓,Risk-off market,493.81,483.54,503.06,508.19
-CTAS,51.0,0 →,Risk-off market,205.80,201.30,209.84,212.09
-CL,51.0,0 →,Risk-off market,92.00,90.33,93.50,94.34
+META,100.0,+54↑,Risk-off market,575.55,557.65,591.67,600.63
+SJM,70.0,-19↓↓,Required risk 8.6% exceeds the 7.0% limit,130.57,,,
+KMI,78.0,+5↑↑,Risk-off market,32.09,31.27,32.84,33.25
+ROL,72.0,+7↑,Risk-off market,37.22,36.40,37.96,38.37
+CHRW,61.0,0 →,Risk-off market,152.47,144.94,159.24,163.01
+WMB,60.0,-26↓↓,Risk-off market,74.12,71.17,76.77,78.25
+PH,60.0,-3↓,Risk-off market,"1,038.54","1,018.06","1,056.97","1,067.21"
+GWW,60.0,0 →,Risk-off market,"1,330.65","1,304.49","1,354.19","1,367.27"
+KVUE,58.0,-28↓,Risk-off market,19.29,18.96,19.58,19.74
+ANET,58.0,+6↑,Risk-off market,198.84,187.89,208.70,214.17
+ESS,54.0,-5↓↓,Risk-off market,289.01,284.10,293.44,295.90
+WAB,54.0,-4↓,Risk-off market,300.55,293.27,307.11,310.75
+SBUX,54.0,0 →,Risk-off market,107.20,104.66,109.50,110.77
+CI,54.0,0 →,Risk-off market,282.84,275.20,289.71,293.53
+MRSH,54.0,+8↑,Risk-off market,193.98,188.97,198.49,201.00
+AIZ,54.0,+3↑,Risk-off market,288.68,281.52,295.13,298.71
+HIG,54.0,+54↑,Risk-off market,140.03,137.65,142.17,143.37
+APD,54.0,0 →,Risk-off market,307.20,299.24,314.37,318.35
+FAST,53.0,+7↑,Risk-off market,51.26,50.13,52.27,52.83
+EQT,52.0,-18↓↓,Risk-off market,55.20,52.80,57.37,58.57
+CRH,52.0,-1↓,Risk-off market,97.39,94.91,99.62,100.86
+DELL,52.0,+9↑↑,Risk-off market,460.72,433.84,484.91,498.35
+VTRS,51.0,-6↓↓,Risk-off market,16.84,16.45,17.18,17.37
+KMB,51.0,-19↓↓,Risk-off market,110.78,108.62,112.72,113.79
+LIN,51.0,-6↓↓,Risk-off market,491.05,482.04,499.16,503.66
+CDNS,51.0,-5↓↓,Risk-off market,330.56,320.95,339.21,344.01
+PLD,51.0,-5↓,Risk-off market,143.03,140.55,145.26,146.50
+ACGL,51.0,-3↓,Risk-off market,100.80,98.50,102.88,104.04
+MSFT,51.0,-3↓,Risk-off market,494.03,483.54,503.47,508.72
+CTAS,51.0,0 →,Risk-off market,205.66,201.30,209.59,211.77
+CL,51.0,0 →,Risk-off market,92.09,90.43,93.60,94.43
 BALL,51.0,+13↑,Risk-off market,64.33,62.68,65.81,66.63
-NTRS,51.0,+5↑,Risk-off market,187.22,183.54,190.54,192.38
-AMP,51.0,+51↑,Risk-off market,561.00,550.63,570.33,575.51
-HSIC,51.0,0 →,Risk-off market,90.44,87.96,92.68,93.92
-DE,51.0,+8↑↑,Risk-off market,638.31,603.89,669.29,686.50
-EXE,50.0,-8↓,Risk-off market,97.11,93.70,100.18,101.89
-IP,49.0,0 →,Risk-off market,41.53,40.45,42.52,43.06
+NTRS,51.0,+5↑,Risk-off market,187.15,183.47,190.47,192.31
+AMP,51.0,+51↑,Risk-off market,560.84,550.47,570.17,575.35
+DE,51.0,+8↑,Risk-off market,637.27,603.89,667.32,684.02
+CHD,51.0,+13↑↑,Risk-off market,102.59,99.93,104.98,106.31
+ED,51.0,+51↑↑,Risk-off market,108.16,106.45,109.70,110.55
+EXE,50.0,-8↓,Risk-off market,96.84,93.70,99.66,101.23
+WST,49.0,+10↑,Risk-off market,352.58,345.40,359.04,362.63
+HSIC,49.0,-2↓,Risk-off market,90.55,87.96,92.89,94.18
