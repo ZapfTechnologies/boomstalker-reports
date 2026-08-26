@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-META,99.0,+53↑,Top-ranked setup with strong structure · Trend +53↑ · Holding leadership,577.76,559.86,593.88,602.84
-KMI,73.0,0 →,Trend: Not turning,32.09,31.27,32.84,33.25
-FFIV,73.0,+73↑↑,Sector leadership is lagging,401.50,389.58,412.23,418.19
-AES,65.0,-31↓,Under-$15 research only,14.73,13.26,16.20,17.68
-CHRW,63.0,+2↑,General watch only,152.12,144.94,158.58,162.17
-PH,62.0,-1↓,Sector leadership is lagging,"1,039.08","1,018.28","1,057.80","1,068.20"
-SJM,62.0,-27↓,Required risk 8.7% exceeds the 7.0% limit,130.72,,,
-GWW,62.0,+2↑,Sector leadership is lagging,"1,332.73","1,304.49","1,358.14","1,372.26"
-KVUE,60.0,-26↓,Setup is not confirmed,19.25,18.93,19.55,19.71
-SBUX,60.0,+6↑↑,Setup is not confirmed,107.67,104.85,110.21,111.63
-WAB,56.0,-2↓,Sector leadership is lagging,300.65,293.27,307.31,311.00
-AIZ,56.0,+5↑,Setup is not confirmed,288.23,281.52,294.27,297.63
-UPS,56.0,+5↑,Sector leadership is lagging,106.02,103.49,108.30,109.56
-MRSH,56.0,+10↑↑,Setup is not confirmed,194.24,188.97,198.99,201.62
-WST,56.0,+17↑↑,Setup is not confirmed,353.14,345.79,359.76,363.43
-HIG,56.0,+56↑↑,Setup is not confirmed,139.93,137.55,142.07,143.27
-WMB,55.0,-31↓↓,General watch only,74.39,71.17,77.29,78.89
-ESS,55.0,-4↓↓,Setup is not confirmed,288.65,283.99,292.85,295.18
-CI,53.0,-1↓,Setup is not confirmed,281.93,275.20,287.97,291.34
-APD,53.0,-1↓,Sector leadership is lagging,306.65,299.24,313.33,317.04
-VTRS,53.0,-4↓,Setup is not confirmed,16.84,16.46,17.18,17.38
-KMB,53.0,-17↓,Setup is not confirmed,110.47,108.41,112.33,113.36
-LIN,53.0,-4↓,Sector leadership is lagging,489.93,482.04,497.03,500.97
-ACGL,53.0,-1↓,Setup is not confirmed,100.70,98.50,102.68,103.79
-MSFT,53.0,-1↓,Sector leadership is lagging,494.38,483.54,504.14,509.56
-CTAS,53.0,+2↑,Sector leadership is lagging,206.07,201.30,210.37,212.76
-BALL,53.0,+15↑,Setup is not confirmed,64.26,62.68,65.68,66.47
-NTRS,53.0,+7↑,Setup is not confirmed,187.22,183.54,190.54,192.38
-AMP,53.0,+53↑,Setup is not confirmed,562.49,552.12,571.82,577.00
-CHD,53.0,+15↑,Setup is not confirmed,102.75,99.93,105.29,106.70
-CL,53.0,+2↑,Setup is not confirmed,91.92,90.26,93.43,94.26
-CME,53.0,+2↑,General watch only,280.35,265.45,293.75,301.19
-EQT,52.0,-18↓↓,General watch only,55.04,52.80,57.05,58.17
-EXE,52.0,-6↓,General watch only,96.83,93.70,99.65,101.22
-PLD,51.0,-5↓,Setup is not confirmed,142.13,140.25,143.82,144.77
-HSIC,51.0,0 →,General watch only,90.57,87.96,92.92,94.23
-UDR,51.0,+5↑,Setup is not confirmed,38.09,37.49,38.62,38.92
-NTAP,51.0,+51↑,Sector leadership is lagging,193.31,186.33,199.59,203.09
-SYF,51.0,+13↑↑,Setup is not confirmed,80.06,78.20,81.74,82.67
-CDNS,50.0,-6↓,Sector leadership is lagging,334.79,323.44,345.00,350.67
+META,100.0,+54↑↑,After the trade window · Trade criteria passed,578.75,560.85,594.87,603.83
+KMI,75.0,+2↑,After the trade window · Setup is not confirmed,31.98,31.19,32.69,33.08
+FFIV,73.0,+73↑,After the trade window · Trend: Not turning,401.80,389.88,412.53,418.49
+PH,62.0,-1↓,After the trade window · Sector leadership is lagging,"1,040.79","1,018.28","1,061.05","1,072.31"
+CHRW,63.0,+2↑,After the trade window · General watch only,152.31,144.94,158.95,162.63
+SJM,62.0,-27↓,After the trade window · Required risk 8.9% exceeds the 7.0% limit,131.09,,,
+GWW,62.0,+2↑,After the trade window · Sector leadership is lagging,"1,332.39","1,304.49","1,357.50","1,371.45"
+KVUE,60.0,-26↓,After the trade window · Setup is not confirmed,19.27,18.95,19.57,19.73
+SBUX,60.0,+6↑,After the trade window · Setup is not confirmed,107.79,104.85,110.44,111.91
+MRSH,58.0,+12↑↑,After the trade window · Setup is not confirmed,193.98,188.97,198.49,201.00
+NTAP,58.0,+58↑↑,After the trade window · Setup is not confirmed,194.16,187.18,200.45,203.94
+EXE,57.0,-1↓,After the trade window · Setup is not confirmed,96.74,93.70,99.48,101.00
+WAB,56.0,-2↓,After the trade window · Sector leadership is lagging,301.10,293.27,308.14,312.06
+AIZ,56.0,+5↑,After the trade window · Setup is not confirmed,288.42,281.52,294.63,298.08
+HIG,56.0,+56↑,After the trade window · Setup is not confirmed,140.06,137.68,142.20,143.40
+UPS,56.0,+5↑,After the trade window · Sector leadership is lagging,105.86,103.49,107.99,109.18
+WMB,55.0,-31↓,After the trade window · General watch only,74.19,71.17,76.91,78.41
+ESS,55.0,-4↓,After the trade window · Sector leadership is lagging,288.64,283.98,292.84,295.17
+CI,53.0,-1↓,After the trade window · Setup is not confirmed,282.09,275.20,288.29,291.73
+APD,53.0,-1↓,After the trade window · Sector leadership is lagging,306.75,299.24,313.51,317.27
+VTRS,53.0,-4↓,After the trade window · Setup is not confirmed,16.89,16.47,17.25,17.46
+LIN,53.0,-4↓,After the trade window · Sector leadership is lagging,490.17,482.04,497.48,501.54
+ACGL,53.0,-1↓,After the trade window · Setup is not confirmed,100.69,98.50,102.67,103.77
+MSFT,53.0,-1↓,After the trade window · Setup is not confirmed,494.85,483.54,505.02,510.68
+CTAS,53.0,+2↑,After the trade window · Sector leadership is lagging,206.14,201.30,210.50,212.92
+BALL,53.0,+15↑,After the trade window · Setup is not confirmed,64.27,62.68,65.69,66.48
+NTRS,53.0,+7↑,After the trade window · Setup is not confirmed,187.38,183.69,190.69,192.53
+AMP,53.0,+53↑,After the trade window · Setup is not confirmed,563.10,552.73,572.43,577.61
+CL,53.0,+2↑,After the trade window · Setup is not confirmed,91.97,90.30,93.47,94.31
+CME,53.0,+2↑,After the trade window · General watch only,280.66,265.45,294.35,301.95
+KMB,53.0,-17↓,After the trade window · Setup is not confirmed,110.61,108.55,112.47,113.50
+HSIC,53.0,+2↑,After the trade window · Setup is not confirmed,90.53,87.96,92.84,94.12
+MAR,53.0,+14↑↑,After the trade window · Setup is not confirmed,359.02,352.46,364.93,368.21
+EQT,52.0,-18↓,After the trade window · General watch only,54.98,52.80,56.94,58.03
+WST,51.0,+12↑,After the trade window · Setup is not confirmed,352.31,345.13,358.77,362.36
+PLD,51.0,-5↓,After the trade window · Sector leadership is lagging,142.26,140.38,143.95,144.90
+UDR,51.0,+5↑,After the trade window · Sector leadership is lagging,38.05,37.45,38.59,38.89
+ANET,51.0,-1↓,After the trade window · Required risk 7.4% exceeds the 7.0% limit,202.87,,,
+CPAY,51.0,+15↑↑,After the trade window · Setup is not confirmed,408.63,398.81,417.47,422.38
+CDNS,50.0,-6↓,After the trade window · Setup is not confirmed,334.09,323.44,343.68,349.00
