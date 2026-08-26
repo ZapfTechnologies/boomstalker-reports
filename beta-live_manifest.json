@@ -1,10 +1,10 @@
 {
   "market_date": "2026-08-26",
-  "published_at": "2026-08-26T12:04:13",
-  "scan_count": 4,
+  "published_at": "2026-08-26T12:34:16",
+  "scan_count": 5,
   "scan_type": "LIVE",
   "scan_source": "FAST INTRADAY",
-  "market_regime": "Defensive",
-  "market_read": "Selective Opportunity",
+  "market_regime": "Risk-Off",
+  "market_read": "Capital Preservation First",
   "symbols_shown": 40
 }

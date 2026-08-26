@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-META,100.0,+54↑,Top-ranked setup with strong structure · Trend +54↑ · Holding leadership,575.56,557.65,591.68,600.63
-SJM,89.0,0 →,Required risk 8.6% exceeds the 7.0% limit,130.57,,,
-KMI,78.0,+5↑↑,Setup is not confirmed,32.13,31.27,32.91,33.34
-ROL,72.0,+7↑,Sector leadership is lagging,37.37,36.55,38.11,38.52
-WMB,67.0,-19↓,General watch only,74.50,71.17,77.49,79.16
-PH,63.0,0 →,Sector leadership is lagging,"1,044.08","1,018.28","1,067.30","1,080.20"
-GWW,60.0,0 →,Sector leadership is lagging,"1,331.15","1,304.49","1,355.15","1,368.48"
-KVUE,58.0,-28↓↓,Setup is not confirmed,19.31,18.99,19.60,19.76
-ESS,59.0,0 →,Setup is not confirmed,289.77,284.10,294.88,297.71
-EQT,59.0,-11↓,General watch only,55.43,52.80,57.80,59.11
-KMB,58.0,-12↓,Setup is not confirmed,110.62,108.56,112.48,113.51
-FTV,58.0,0 →,Sector leadership is lagging,60.58,59.49,61.56,62.11
-ANET,58.0,+6↑,General watch only,197.65,187.89,206.44,211.32
-PLD,58.0,+2↑,Setup is not confirmed,142.98,140.55,145.16,146.38
-WAB,57.0,-1↓,Sector leadership is lagging,300.98,293.27,307.91,311.77
-LIN,57.0,0 →,Setup is not confirmed,492.13,482.04,501.21,506.25
-CRH,56.0,+3↑,Setup is not confirmed,97.94,95.45,100.17,101.41
-SBUX,54.0,0 →,Sector leadership is lagging,106.99,104.44,109.29,110.56
-CI,54.0,0 →,Setup is not confirmed,282.88,275.20,289.79,293.63
-ACGL,54.0,0 →,Setup is not confirmed,100.84,98.50,102.94,104.11
-OTIS,54.0,+52↑,Sector leadership is lagging,72.45,71.06,73.70,74.39
-MRSH,54.0,+8↑,Setup is not confirmed,194.18,188.97,198.87,201.48
-MSFT,54.0,0 →,Sector leadership is lagging,494.01,483.54,503.44,508.67
-AIZ,54.0,+3↑,Setup is not confirmed,289.00,281.52,295.73,299.47
-MET,54.0,+3↑,Setup is not confirmed,96.92,95.30,98.38,99.19
-HIG,54.0,+54↑↑,Setup is not confirmed,140.00,137.61,142.14,143.33
-FAST,53.0,+7↑↑,Sector leadership is lagging,51.23,50.13,52.22,52.77
-CHRW,51.0,-10↓,General watch only,150.28,144.94,155.07,157.74
-VTRS,51.0,-6↓,Setup is not confirmed,16.86,16.47,17.21,17.40
-CTAS,51.0,0 →,Sector leadership is lagging,205.78,201.30,209.81,212.05
-CL,51.0,0 →,Setup is not confirmed,91.94,90.27,93.44,94.28
-CHD,51.0,+13↑,Setup is not confirmed,102.61,99.93,105.03,106.37
-CCI,51.0,+5↑,Setup is not confirmed,76.31,74.58,77.87,78.74
-BALL,51.0,+13↑,Sector leadership is lagging,64.38,62.68,65.90,66.74
-NTRS,51.0,+5↑↑,Setup is not confirmed,187.50,183.82,190.82,192.66
-AMP,51.0,+51↑↑,Setup is not confirmed,562.11,551.74,571.44,576.62
-SYY,51.0,+51↑↑,Setup is not confirmed,83.76,82.36,85.02,85.72
-EXE,50.0,-8↓↓,General watch only,97.11,93.70,100.17,101.87
-HSIC,49.0,-2↓,General watch only,90.55,87.96,92.88,94.18
-IP,49.0,0 →,Setup is not confirmed,41.50,40.41,42.48,43.03
+META,100.0,+54↑,Risk-off market,576.70,558.79,592.81,601.77
+SJM,89.0,0 →,Required risk 8.5% exceeds the 7.0% limit,130.51,,,
+ROL,72.0,+7↑,Risk-off market,37.41,36.59,38.15,38.56
+KMI,70.0,-3↓,Risk-off market,32.22,31.27,33.07,33.54
+WMB,60.0,-26↓↓,Risk-off market,74.42,71.17,77.34,78.97
+PH,63.0,0 →,Risk-off market,"1,040.36","1,018.28","1,060.23","1,071.28"
+CHRW,61.0,0 →,Risk-off market,151.55,144.94,157.49,160.80
+GWW,60.0,0 →,Risk-off market,"1,331.72","1,304.49","1,356.22","1,369.84"
+ESS,59.0,0 →,Risk-off market,289.12,284.10,293.64,296.15
+EQT,52.0,-18↓↓,Risk-off market,55.24,52.80,57.44,58.67
+KVUE,58.0,-28↓↓,Risk-off market,19.30,18.98,19.59,19.75
+FTV,58.0,0 →,Risk-off market,60.48,59.38,61.46,62.01
+ANET,58.0,+6↑,Risk-off market,198.30,187.89,207.67,212.88
+KMB,51.0,-19↓↓,Risk-off market,110.59,108.53,112.45,113.48
+WAB,54.0,-4↓↓,Risk-off market,300.69,293.27,307.37,311.08
+LIN,51.0,-6↓↓,Risk-off market,490.99,482.04,499.04,503.52
+SBUX,54.0,0 →,Risk-off market,107.26,104.71,109.55,110.83
+CI,54.0,0 →,Risk-off market,282.78,275.20,289.60,293.39
+OTIS,54.0,+52↑,Risk-off market,72.42,71.03,73.67,74.36
+MRSH,54.0,+8↑,Risk-off market,194.06,188.97,198.65,201.20
+AIZ,54.0,+3↑,Risk-off market,288.80,281.52,295.35,298.99
+HIG,54.0,+54↑,Risk-off market,140.00,137.62,142.14,143.34
+VTRS,54.0,-3↓,Risk-off market,16.89,16.47,17.26,17.47
+WST,54.0,+15↑↑,Risk-off market,352.99,345.79,359.47,363.07
+CDNS,51.0,-5↓,Risk-off market,331.10,321.49,339.75,344.55
+FAST,53.0,+7↑,Risk-off market,51.27,50.13,52.28,52.85
+CRH,52.0,-1↓,Risk-off market,97.23,94.75,99.47,100.71
+MET,51.0,0 →,Risk-off market,96.55,94.93,98.01,98.82
+PLD,51.0,-5↓↓,Risk-off market,142.71,140.55,144.65,145.73
+ACGL,51.0,-3↓,Risk-off market,100.83,98.50,102.93,104.10
+MSFT,51.0,-3↓,Risk-off market,493.81,483.54,503.06,508.19
+CTAS,51.0,0 →,Risk-off market,205.80,201.30,209.84,212.09
+CL,51.0,0 →,Risk-off market,92.00,90.33,93.50,94.34
+BALL,51.0,+13↑,Risk-off market,64.33,62.68,65.81,66.63
+NTRS,51.0,+5↑,Risk-off market,187.22,183.54,190.54,192.38
+AMP,51.0,+51↑,Risk-off market,561.00,550.63,570.33,575.51
+HSIC,51.0,0 →,Risk-off market,90.44,87.96,92.68,93.92
+DE,51.0,+8↑↑,Risk-off market,638.31,603.89,669.29,686.50
+EXE,50.0,-8↓,Risk-off market,97.11,93.70,100.18,101.89
+IP,49.0,0 →,Risk-off market,41.53,40.45,42.52,43.06
