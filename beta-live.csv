@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-MDT,88.0,-12↓,Risk-off market,92.38,89.66,94.82,96.18
-AAPL,62.0,-7↓,Risk-off market,324.62,308.07,339.52,347.79
-ELV,60.0,0 →,Risk-off market,401.87,392.82,410.02,414.55
-CAH,60.0,+2↑,Risk-off market,239.47,232.87,245.41,248.71
-DE,59.0,+10↑,Required risk 8.6% exceeds the 7.0% limit,669.69,,,
-CI,58.0,-2↓,Risk-off market,281.20,275.22,286.59,289.58
-CVX,58.0,+10↑↑,Risk-off market,209.59,197.78,220.22,226.12
+MDT,85.0,-15↓↓,Risk-off market,92.58,89.66,95.20,96.66
+AAPL,62.0,-7↓,Risk-off market,325.24,308.07,340.69,349.28
+ELV,60.0,0 →,Risk-off market,401.21,392.82,408.77,412.97
+CAH,60.0,+2↑,Risk-off market,239.71,232.87,245.86,249.28
+SPGI,60.0,+24↑↑,Risk-off market,449.21,418.52,476.83,492.18
+DE,59.0,+10↑,Required risk 8.8% exceeds the 7.0% limit,671.05,,,
+CI,58.0,-2↓,Risk-off market,280.85,275.22,285.91,288.72
+WFC,56.0,-36↓,Risk-off market,86.79,85.14,88.27,89.09
+EXE,55.0,+17↑,Risk-off market,99.85,94.71,104.47,107.04
 TMUS,54.0,-3↓,Risk-off market,182.34,178.34,185.95,187.96
-CVS,56.0,0 →,Risk-off market,96.89,93.74,99.71,101.28
-EXE,55.0,+17↑↑,Risk-off market,99.76,94.71,104.30,106.83
-PG,54.0,-6↓,Risk-off market,146.25,143.90,148.37,149.54
-META,54.0,+54↑,Cooldown active until 9/4/26,580.38,563.13,595.91,604.54
-OXY,54.0,+16↑↑,Risk-off market,61.05,58.13,63.69,65.15
-BKR,51.0,-3↓,Risk-off market,63.87,62.35,65.23,65.99
-AES,51.0,+5↑,Under-$15 research only,14.77,13.29,16.24,17.72
-DG,51.0,+6↑↑,Required risk 7.4% exceeds the 7.0% limit,131.19,,,
-WELL,50.0,-10↓,Risk-off market,242.18,234.54,249.05,252.86
-KR,50.0,0 →,Risk-off market,58.90,56.51,61.05,62.24
-EBAY,50.0,-5↓,Risk-off market,105.76,103.02,108.23,109.60
-EQT,50.0,+9↑↑,Risk-off market,55.34,53.01,57.44,58.61
-DLTR,49.0,0 →,Risk-off market,130.94,125.92,135.45,137.96
-FANG,49.0,+3↑,Risk-off market,202.36,196.90,207.28,210.01
-ADM,48.0,+7↑,Risk-off market,83.59,78.80,87.90,90.30
-EOG,48.0,-9↓↓,Risk-off market,147.72,142.88,152.08,154.50
-REGN,48.0,-3↓,Risk-off market,815.34,796.80,832.03,841.30
-CEG,48.0,+4↑↑,Risk-off market,279.00,270.62,286.54,290.73
-MCK,47.0,0 →,Risk-off market,910.01,865.95,949.66,971.69
-CRWD,47.0,+12↑↑,Risk-off market,214.62,201.57,226.38,232.90
-VTR,46.0,0 →,Risk-off market,92.94,91.00,94.67,95.64
+PG,54.0,-6↓,Risk-off market,146.27,143.90,148.40,149.59
+OXY,54.0,+16↑,Risk-off market,61.08,58.13,63.74,65.21
+MCK,53.0,+6↑↑,Risk-off market,912.03,865.95,953.50,976.54
+FANG,52.0,+6↑↑,Risk-off market,202.93,197.47,207.85,210.58
+MO,52.0,+7↑↑,Risk-off market,69.94,66.21,73.29,75.16
+BKR,51.0,-3↓,Risk-off market,63.88,62.36,65.24,66.00
+AES,51.0,+5↑,Under-$15 research only,14.78,13.30,16.26,17.74
+DG,51.0,+6↑,Required risk 7.1% exceeds the 7.0% limit,130.88,,,
+CVS,50.0,-6↓↓,Risk-off market,96.72,93.74,99.41,100.90
+META,50.0,+50↑,Cooldown active until 9/4/26,584.73,565.34,602.17,611.86
+WELL,50.0,-10↓,Risk-off market,242.24,234.54,249.17,253.02
+EBAY,50.0,-5↓,Risk-off market,105.74,102.99,108.21,109.58
+EOG,50.0,-7↓,Risk-off market,148.54,142.88,153.64,156.48
+EQT,50.0,+9↑,Risk-off market,55.43,53.01,57.60,58.81
+BG,49.0,+6↑↑,Required risk 7.5% exceeds the 7.0% limit,119.80,,,
+KR,48.0,-2↓,Risk-off market,58.52,56.51,60.33,61.34
+ADM,48.0,+7↑,Risk-off market,83.67,78.80,88.05,90.49
+REGN,48.0,-3↓,Risk-off market,821.17,798.16,841.88,853.38
+CEG,48.0,+4↑,Risk-off market,279.17,270.62,286.86,291.13
+CRWD,47.0,+12↑,Risk-off market,214.10,201.04,225.85,232.38
+CVX,46.0,-2↓,Risk-off market,209.98,197.78,220.96,227.05
+VTR,46.0,0 →,Risk-off market,92.58,90.88,94.11,94.96
 MKC,46.0,-3↓,Risk-off market,54.53,53.08,55.84,56.56
-MO,45.0,0 →,Risk-off market,70.20,66.21,73.79,75.79
-HUM,45.0,-6↓↓,Risk-off market,391.37,377.70,403.67,410.51
-HCA,45.0,-4↓,Risk-off market,419.24,409.05,428.41,433.51
-XOM,45.0,-12↓,Risk-off market,164.04,158.38,169.14,171.97
-AWK,44.0,-5↓,Risk-off market,137.03,134.35,139.44,140.77
-KMI,44.0,0 →,Risk-off market,31.98,31.13,32.74,33.16
-ULTA,43.0,-4↓↓,Cooldown active until 9/2/26,546.52,521.04,569.46,582.20
-BG,43.0,0 →,Required risk 7.4% exceeds the 7.0% limit,119.62,,,
-PFE,43.0,-5↓,Risk-off market,28.62,27.12,29.96,30.71
-APA,43.0,+9↑↑,Required risk 8.7% exceeds the 7.0% limit,44.26,,,
+JNJ,46.0,+4↑↑,Risk-off market,270.17,262.83,276.77,280.44
+WMB,46.0,+5↑↑,Risk-off market,75.24,71.79,78.34,80.07
+XOM,45.0,-12↓,Risk-off market,164.09,158.38,169.23,172.09
+HUM,45.0,-6↓,Risk-off market,390.39,377.70,401.81,408.16
+MSI,45.0,+7↑↑,Risk-off market,493.70,469.04,515.89,528.22
+COR,45.0,0 →,Risk-off market,329.36,317.13,340.37,346.48
+KMI,44.0,0 →,Risk-off market,31.98,31.14,32.75,33.17
