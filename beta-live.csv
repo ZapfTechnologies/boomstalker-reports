@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-DELL,83.0,+55↑,Setup is not confirmed,458.61,432.31,482.28,495.43
-NVDA,80.0,0 →,General watch only,225.86,215.85,234.86,239.87
-TTD,71.0,-7↓,Under-$15 research only,14.47,13.02,15.92,17.36
-NUE,71.0,0 →,Trend: Not turning,260.66,250.74,269.59,274.55
-DRI,70.0,0 →,Trend: Not turning,221.42,215.91,226.38,229.13
-HSIC,70.0,+7↑,Trend: Not turning,91.17,88.57,93.52,94.82
-LULU,70.0,+52↑,Trend: Not turning,121.13,116.57,125.23,127.51
-CPAY,70.0,0 →,Momentum building with confirmation · Trend 0 → · Rebounding,413.82,404.07,422.59,427.47
-KHC,68.0,0 →,General watch only,26.38,25.00,27.62,28.31
-FIS,68.0,+3↑,Trend: Not turning,42.05,40.86,43.12,43.72
-ERIE,68.0,+9↑↑,Sector leadership is lagging,261.22,252.82,268.78,272.98
-BIIB,66.0,+6↑,General watch only,223.09,211.62,233.40,239.14
-TMUS,66.0,-2↓,General watch only,187.77,179.05,195.61,199.97
-AES,66.0,0 →,Under-$15 research only,14.79,13.31,16.26,17.74
-APP,66.0,+59↑,Trend: Not turning,317.46,305.40,328.32,334.36
-BBY,66.0,-5↓,General watch only,87.29,82.68,91.44,93.74
-DOW,65.0,-3↓,Trend: Not turning,31.25,30.29,32.13,32.61
-DPZ,65.0,+2↑,Momentum building with confirmation · Trend +2↑ · Rebounding,347.28,336.14,357.31,362.88
-MET,65.0,+62↑↑,Sector leadership is lagging,96.42,94.64,98.02,98.92
-APD,64.0,-4↓↓,Setup is not confirmed,309.44,302.36,315.81,319.36
-BRK-B,64.0,-3↓,Sector leadership is lagging,508.02,502.59,512.91,515.62
-BKR,64.0,+9↑,Setup is not confirmed,64.38,62.56,66.01,66.92
-KIM,64.0,+57↑,Sector leadership is lagging,24.20,23.91,24.47,24.62
-DGX,61.0,-2↓,Setup is not confirmed,241.21,236.47,245.48,247.85
-REGN,63.0,+8↑↑,General watch only,849.63,801.75,892.72,916.67
-VRTX,56.0,+3↑,General watch only,553.85,525.84,579.07,593.08
-EW,61.0,-3↓,Setup is not confirmed,91.56,89.82,93.13,94.01
-FRT,61.0,+12↑,Sector leadership is lagging,117.86,116.48,119.11,119.80
-AWK,61.0,+12↑,Sector leadership is lagging,138.27,135.39,140.86,142.30
-SWKS,61.0,-5↓,Required risk 8.1% exceeds the 7.0% limit,72.43,,,
-CI,61.0,+13↑↑,Setup is not confirmed,283.99,275.94,291.23,295.26
-WFC,60.0,-12↓↓,General watch only,88.70,85.81,91.30,92.75
-PG,59.0,-2↓,General watch only,147.89,143.83,151.54,153.57
-TSCO,59.0,+52↑↑,Setup is not confirmed,35.12,34.20,35.95,36.41
-MDT,58.0,-4↓↓,General watch only,93.58,90.03,96.78,98.56
-GPN,58.0,+13↑,General watch only,93.19,89.78,96.25,97.96
-LH,58.0,+8↑↑,Setup is not confirmed,334.26,324.67,342.89,347.68
-DVA,58.0,+2↑,Setup is not confirmed,179.68,175.60,183.34,185.38
-COR,58.0,0 →,General watch only,337.22,318.15,354.38,363.92
-META,57.0,-13↓,Cooldown active until 9/4/26,595.39,565.43,622.36,637.34
+DELL,100.0,+72↑↑,Momentum breakout accelerating · Trend +72↑↑ · Accelerating,463.80,437.50,487.48,500.63
+NVDA,80.0,0 →,General watch only,225.49,215.85,234.17,238.99
+NUE,71.0,0 →,Trend: Not turning,261.00,251.07,269.93,274.89
+HSIC,71.0,+8↑↑,General watch only,91.21,88.57,93.59,94.91
+TTD,71.0,-7↓,Under-$15 research only,14.46,13.01,15.90,17.35
+DRI,70.0,0 →,Trend: Not turning,220.39,214.88,225.35,228.10
+CPAY,70.0,0 →,Trend: Not turning,413.37,404.07,421.74,426.39
+LULU,70.0,+52↑,Trend: Not turning,120.88,116.32,124.98,127.25
+MET,70.0,+67↑↑,Sector leadership is lagging,96.59,94.81,98.19,99.09
+KHC,68.0,0 →,General watch only,26.34,25.00,27.53,28.20
+BBY,67.0,-4↓,General watch only,87.43,82.68,91.70,94.08
+AES,66.0,0 →,Under-$15 research only,14.79,13.31,16.27,17.75
+FIS,65.0,0 →,Trend: Not turning,41.88,40.69,42.96,43.55
+DOW,65.0,-3↓,Trend: Not turning,31.27,30.31,32.15,32.63
+DPZ,65.0,+2↑,Trend: Not turning,348.11,336.96,358.13,363.70
+APD,64.0,-4↓,Setup is not confirmed,309.06,302.36,315.09,318.44
+BRK-B,64.0,-3↓,Sector leadership is lagging,507.56,502.13,512.45,515.17
+KIM,64.0,+57↑,Sector leadership is lagging,24.14,23.85,24.41,24.56
+PG,64.0,+3↑,Setup is not confirmed,147.78,143.83,151.33,153.31
+ETR,64.0,+12↑↑,Sector leadership is lagging,107.38,105.42,109.14,110.12
+WFC,62.0,-10↓,General watch only,88.94,85.81,91.76,93.32
+EBAY,62.0,+62↑↑,Setup is not confirmed,106.20,103.46,108.67,110.04
+BKR,61.0,+6↑,Setup is not confirmed,64.29,62.56,65.84,66.71
+DGX,61.0,-2↓,Setup is not confirmed,241.46,236.71,245.72,248.09
+EW,61.0,-3↓,Setup is not confirmed,91.24,89.49,92.81,93.68
+FRT,61.0,+12↑,Sector leadership is lagging,117.95,116.57,119.20,119.89
+AWK,61.0,+12↑,Sector leadership is lagging,138.49,135.39,141.28,142.83
+SWKS,61.0,-5↓,Required risk 8.4% exceeds the 7.0% limit,72.62,,,
+BIIB,60.0,0 →,General watch only,221.69,211.62,230.76,235.80
+TMUS,60.0,-8↓↓,General watch only,187.03,179.05,194.21,198.20
+ERIE,60.0,+1↑,Sector leadership is lagging,262.44,253.73,270.27,274.62
+REGN,57.0,+2↑,General watch only,846.93,801.75,887.59,910.19
+KVUE,59.0,+59↑↑,Setup is not confirmed,19.07,18.77,19.35,19.51
+GPN,58.0,+13↑,General watch only,93.07,89.78,96.03,97.67
+APP,57.0,+50↑,Setup is not confirmed,318.40,306.33,329.26,335.29
+CAH,57.0,0 →,General watch only,244.96,233.19,255.55,261.43
+VTRS,57.0,0 →,General watch only,17.04,16.21,17.78,18.19
+IFF,57.0,0 →,General watch only,87.60,84.06,90.78,92.55
+META,57.0,-13↓,Cooldown active until 9/4/26,592.92,565.43,617.66,631.41
+NVR,55.0,+55↑↑,Cooldown active until 9/8/26,"6,349.24","6,216.23","6,468.95","6,535.46"
