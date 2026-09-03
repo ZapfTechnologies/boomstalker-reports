@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
 PFG,100.0,0 →,Trend: Need +2,118.54,111.23,125.12,128.77
-ACGL,100.0,0 →,Trend: Not turning,100.02,98.00,101.84,102.85
-HOOD,81.0,+3↑,Required risk 20.4% exceeds the 7.0% limit,123.32,,,
-DELL,81.0,+14↑↑,Required risk 14.9% exceeds the 7.0% limit,526.34,,,
-ABNB,77.0,+18↑,Setup is not confirmed,187.19,182.27,191.62,194.08
-AIG,76.0,+69↑,Setup is not confirmed,77.06,75.79,78.19,78.83
-META,75.0,+5↑,Cooldown active until 9/4/26,616.54,,,
-PRU,73.0,+5↑,Trend: Not turning,123.09,120.36,125.54,126.91
-MS,73.0,+7↑,Trend: Not turning,217.55,212.59,222.02,224.50
-TRV,73.0,+10↑,Trend: Not turning,374.87,366.28,382.60,386.90
-AMP,71.0,+12↑,Trend: Not turning,561.57,549.44,572.49,578.55
-GM,71.0,+71↑,Trend: Not turning,86.51,84.51,88.31,89.31
-JPM,71.0,+12↑↑,Momentum building with confirmation · Trend +12↑↑ · Rebounding,361.80,355.39,367.57,370.77
-ALL,70.0,+7↑,Trend: Not turning,264.91,257.54,271.54,275.23
-CB,70.0,+7↑,Trend: Not turning,347.09,340.35,353.15,356.52
-MSCI,70.0,+7↑,Trend: Not turning,573.65,559.65,586.25,593.25
-TSLA,69.0,-7↓↓,Required risk 11.1% exceeds the 7.0% limit,382.92,,,
-RJF,68.0,+5↑,Trend: Not turning,179.43,175.40,183.06,185.07
-SCHW,68.0,+5↑,Trend: Not turning,110.23,107.98,112.26,113.38
-WRB,68.0,+57↑,Trend: Not turning,69.44,68.30,70.46,71.03
-CINF,68.0,+9↑,Trend: Not turning,174.38,170.44,177.93,179.90
-HIG,68.0,+9↑,Trend: Not turning,139.72,137.23,141.96,143.20
-ETR,67.0,+8↑,Setup is not confirmed,108.35,105.90,110.55,111.77
-GS,67.0,+64↑,Cooldown active until 9/4/26,"1,039.66","1,014.96","1,061.90","1,074.25"
-MSFT,66.0,+11↑,General watch only,514.66,490.59,536.32,548.35
-ECHO,65.0,-1↓,Trend: Not turning,88.59,86.05,90.88,92.15
-AIZ,64.0,+5↑,Setup is not confirmed,287.54,281.14,293.30,296.50
-BNY,64.0,+8↑,Setup is not confirmed,164.34,160.05,168.20,170.34
-BRK-B,64.0,+57↑,Setup is not confirmed,507.80,502.48,512.59,515.24
-UNH,64.0,+8↑,Setup is not confirmed,403.79,393.58,412.97,418.08
-NI,64.0,+8↑,Setup is not confirmed,41.75,41.01,42.42,42.79
-WTW,64.0,+13↑,Setup is not confirmed,341.89,334.62,348.44,352.08
-COF,64.0,+60↑,Setup is not confirmed,219.23,214.08,223.86,226.43
-MDT,64.0,+10↑,Setup is not confirmed,92.45,90.15,94.53,95.68
-BAC,64.0,+62↑,Setup is not confirmed,63.06,61.98,64.05,64.59
-FE,64.0,+60↑,Setup is not confirmed,46.84,46.10,47.51,47.89
-AEP,64.0,+8↑↑,Setup is not confirmed,124.89,122.86,126.73,127.75
-CNP,64.0,+60↑↑,Setup is not confirmed,39.91,39.17,40.58,40.95
-APH,62.0,+62↑↑,Setup is not confirmed,81.11,78.33,83.60,84.99
-NVR,61.0,-2↓,Cooldown active until 9/8/26,"6,354.24","6,215.24","6,479.34","6,548.83"
+ACGL,100.0,0 →,Trend: Not turning,99.95,98.00,101.71,102.68
+DELL,81.0,+14↑,Required risk 13.9% exceeds the 7.0% limit,520.42,,,
+HOOD,81.0,+3↑,Required risk 20.1% exceeds the 7.0% limit,122.87,,,
+AIG,76.0,+69↑,Setup is not confirmed,77.12,75.86,78.26,78.89
+PRU,73.0,+5↑,Trend: Not turning,123.20,120.36,125.76,127.18
+MS,73.0,+7↑,Trend: Not turning,216.88,212.25,221.05,223.36
+TRV,73.0,+10↑,Trend: Not turning,374.71,366.28,382.30,386.52
+ABNB,70.0,+11↑,Sector leadership is lagging,187.00,182.08,191.43,193.89
+CB,70.0,+7↑,Trend: Not turning,347.55,340.35,354.03,357.63
+MSCI,70.0,+7↑,Trend: Not turning,572.74,559.65,584.52,591.07
+GM,70.0,+70↑,Sector leadership is lagging,86.64,84.64,88.44,89.44
+TSLA,69.0,-7↓,Required risk 10.9% exceeds the 7.0% limit,382.14,,,
+META,68.0,-2↓,Cooldown active until 9/4/26,614.80,,,
+AMP,68.0,+9↑,Trend: Not turning,562.12,549.99,573.04,579.10
+RJF,68.0,+5↑,Trend: Not turning,179.37,175.34,183.00,185.01
+SCHW,68.0,+5↑,Trend: Not turning,110.32,108.07,112.35,113.47
+WRB,68.0,+57↑,Trend: Not turning,69.47,68.34,70.50,71.07
+CINF,68.0,+9↑,Trend: Not turning,174.50,170.44,178.17,180.20
+HIG,68.0,+9↑,Trend: Not turning,139.74,137.23,142.00,143.25
+ETR,67.0,+8↑,Setup is not confirmed,108.11,105.90,110.09,111.19
+GS,67.0,+64↑,Cooldown active until 9/4/26,"1,035.34","1,010.63","1,057.57","1,069.92"
+FE,67.0,+63↑↑,Setup is not confirmed,46.95,46.21,47.62,48.00
+MSFT,66.0,+11↑,General watch only,512.02,490.59,531.29,542.00
+ECHO,65.0,-1↓,Trend: Not turning,88.91,86.37,91.20,92.47
+JPM,64.0,+5↑,Setup is not confirmed,361.38,355.39,366.77,369.77
+AIZ,64.0,+5↑,Setup is not confirmed,287.43,281.14,293.08,296.22
+BNY,64.0,+8↑,Setup is not confirmed,164.40,160.05,168.32,170.50
+BRK-B,64.0,+57↑,Setup is not confirmed,507.63,502.31,512.42,515.07
+UNH,64.0,+8↑,Setup is not confirmed,404.23,393.58,413.81,419.13
+NI,64.0,+8↑,Setup is not confirmed,41.69,40.95,42.35,42.72
+WTW,64.0,+13↑,Setup is not confirmed,341.71,334.44,348.26,351.89
+COF,64.0,+60↑,Setup is not confirmed,219.60,214.45,224.23,226.80
+BAC,64.0,+62↑,Setup is not confirmed,63.05,61.97,64.04,64.58
+AEP,64.0,+8↑,Setup is not confirmed,124.91,122.88,126.75,127.76
+MDT,64.0,+10↑,Setup is not confirmed,92.49,90.15,94.59,95.76
+TFC,64.0,+60↑↑,Setup is not confirmed,51.34,50.35,52.24,52.73
+WELL,64.0,+8↑↑,Setup is not confirmed,241.21,234.82,246.95,250.14
+AMT,62.0,-3↓,Setup is not confirmed,177.79,172.48,182.57,185.22
+AES,61.0,-2↓,Under-$15 research only,14.79,13.31,16.27,17.75
