@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-DELL,88.0,+60↑,After the trade window · Required risk 9.4% exceeds the 7.0% limit,489.08,,,
-VST,74.0,+62↑↑,After the trade window · Sector leadership is lagging,142.91,138.45,146.93,149.17
-NVDA,73.0,-7↓,After the trade window · General watch only,224.46,215.85,232.21,236.52
-WFC,72.0,0 →,After the trade window · General watch only,89.56,85.81,92.94,94.82
-HSIC,70.0,+7↑,After the trade window · Trend: Not turning,90.50,88.57,92.24,93.21
-DRI,70.0,0 →,After the trade window · Trend: Not turning,220.45,214.94,225.41,228.16
-MET,70.0,+67↑,After the trade window · Sector leadership is lagging,96.64,94.86,98.25,99.14
-F,70.0,+70↑↑,After the trade window · Under-$15 research only,14.14,12.73,15.55,16.97
-STLD,69.0,+52↑↑,After the trade window · Trade criteria passed,246.70,236.38,255.99,261.14
-KHC,68.0,0 →,After the trade window · General watch only,26.27,25.00,27.41,28.04
-LULU,68.0,+50↑,After the trade window · Trend: Not turning,120.51,115.95,124.61,126.88
-FIS,68.0,+3↑,After the trade window · Trend: Not turning,41.85,40.66,42.92,43.52
-AES,66.0,0 →,After the trade window · Under-$15 research only,14.79,13.31,16.27,17.75
-BIIB,66.0,+6↑↑,After the trade window · General watch only,224.14,211.62,235.40,241.66
-BBY,65.0,-6↓,After the trade window · General watch only,88.05,82.68,92.88,95.57
-DOW,65.0,-3↓,After the trade window · Trend: Not turning,31.28,30.31,32.15,32.63
-TTD,64.0,-14↓↓,After the trade window · Under-$15 research only,14.49,13.05,15.94,17.39
-APD,64.0,-4↓,After the trade window · Setup is not confirmed,309.75,302.36,316.41,320.11
-AWK,64.0,+15↑,After the trade window · Sector leadership is lagging,138.50,135.39,141.30,142.85
-PG,64.0,+3↑,After the trade window · Setup is not confirmed,147.69,143.83,151.16,153.09
-MDT,64.0,+2↑,After the trade window · Setup is not confirmed,92.72,90.03,95.14,96.49
-CPAY,63.0,-7↓↓,After the trade window · General watch only,417.36,404.07,429.31,435.95
-DPZ,63.0,0 →,After the trade window · Setup is not confirmed,346.77,335.63,356.80,362.37
-NUE,63.0,-8↓,After the trade window · Setup is not confirmed,264.06,254.14,273.00,277.96
-ERIE,62.0,+3↑,After the trade window · Sector leadership is lagging,259.50,251.11,267.06,271.26
-EBAY,62.0,+62↑,After the trade window · Setup is not confirmed,106.41,103.55,108.97,110.40
-LYB,62.0,0 →,After the trade window · General watch only,66.77,63.09,70.07,71.91
-DGX,61.0,-2↓,After the trade window · Setup is not confirmed,240.42,235.68,244.69,247.06
-FRT,61.0,+12↑,After the trade window · Sector leadership is lagging,117.97,116.59,119.22,119.91
-SWKS,61.0,-5↓,After the trade window · Required risk 7.8% exceeds the 7.0% limit,72.20,,,
-INCY,61.0,+22↑,After the trade window · General watch only,128.99,122.67,134.68,137.84
-CNC,61.0,-2↓,After the trade window · General watch only,67.55,64.51,70.29,71.81
-TMUS,60.0,-8↓,After the trade window · General watch only,186.70,179.05,193.58,197.41
-VRTX,60.0,+7↑↑,After the trade window · General watch only,556.14,525.84,583.41,598.56
-ETR,59.0,+7↑,After the trade window · Sector leadership is lagging,107.18,105.23,108.94,109.92
-KVUE,59.0,+59↑,After the trade window · Setup is not confirmed,19.08,18.77,19.36,19.51
-COR,58.0,0 →,After the trade window · General watch only,336.55,318.15,353.10,362.30
-JNJ,58.0,-5↓,After the trade window · General watch only,275.90,263.57,287.01,293.17
-APP,57.0,+50↑,After the trade window · Setup is not confirmed,319.65,307.58,330.51,336.54
-CAH,57.0,0 →,After the trade window · General watch only,244.93,233.19,255.49,261.36
+PFG,100.0,0 →,Trend: Need +2,118.62,111.23,125.27,128.96
+ACGL,100.0,0 →,Trend: Not turning,99.94,98.00,101.69,102.66
+HOOD,81.0,+3↑,Required risk 19.9% exceeds the 7.0% limit,122.61,,,
+AIG,80.0,+73↑,Setup is not confirmed,76.88,75.62,78.02,78.65
+ABNB,77.0,+18↑↑,Setup is not confirmed,187.12,182.20,191.55,194.01
+DELL,76.0,+9↑↑,Required risk 12.5% exceeds the 7.0% limit,511.74,,,
+META,75.0,+5↑↑,Cooldown active until 9/4/26,617.49,,,
+PRU,73.0,+5↑,Trend: Not turning,123.17,120.36,125.71,127.11
+MS,73.0,+7↑,Trend: Not turning,217.33,212.59,221.60,223.97
+TRV,73.0,+10↑,Trend: Not turning,374.30,366.28,381.52,385.53
+AES,73.0,+10↑↑,Under-$15 research only,14.80,13.32,16.28,17.76
+AMP,71.0,+12↑↑,Momentum building with confirmation · Trend +12↑↑ · Rebounding,561.93,549.80,572.85,578.91
+GM,68.0,+68↑,Trend: Not turning,86.43,84.43,88.23,89.23
+ECHO,71.0,+5↑↑,Momentum building with confirmation · Trend +5↑↑ · Rebounding,89.33,86.78,91.62,92.89
+AMT,70.0,+5↑,Sector leadership is lagging,177.55,172.48,182.11,184.64
+ALL,70.0,+7↑↑,Momentum building with confirmation · Trend +7↑↑ · Rebounding,264.68,257.54,271.11,274.68
+CB,70.0,+7↑↑,Momentum building with confirmation · Trend +7↑↑ · Rebounding,346.33,340.35,351.71,354.70
+MSCI,70.0,+7↑↑,Momentum building with confirmation · Trend +7↑↑ · Rebounding,572.85,559.65,584.73,591.33
+TSLA,69.0,-7↓↓,Required risk 10.7% exceeds the 7.0% limit,381.04,,,
+VRT,69.0,+69↑↑,Sector leadership is lagging,270.39,258.32,281.26,287.30
+RJF,68.0,+5↑,Trend: Not turning,179.46,175.43,183.09,185.10
+SCHW,68.0,+5↑,Trend: Not turning,110.12,107.87,112.15,113.27
+WRB,68.0,+57↑,Trend: Not turning,69.45,68.31,70.47,71.04
+CINF,68.0,+9↑↑,Momentum building with confirmation · Trend +9↑↑ · Rebounding,174.47,170.44,178.10,180.12
+HIG,68.0,+9↑↑,Momentum building with confirmation · Trend +9↑↑ · Rebounding,139.56,137.23,141.65,142.81
+JPM,67.0,+8↑,Setup is not confirmed,361.53,355.39,367.06,370.13
+ETR,67.0,+8↑↑,Setup is not confirmed,108.19,105.90,110.26,111.40
+GS,67.0,+64↑↑,Cooldown active until 9/4/26,"1,038.66","1,013.95","1,060.90","1,073.25"
+MSFT,66.0,+11↑↑,General watch only,512.45,490.59,532.11,543.04
+AIZ,64.0,+5↑,Setup is not confirmed,287.88,281.14,293.94,297.31
+BNY,64.0,+8↑,Setup is not confirmed,164.22,160.05,167.98,170.06
+BRK-B,64.0,+57↑,Setup is not confirmed,508.46,503.14,513.25,515.90
+DVA,64.0,+8↑↑,Setup is not confirmed,181.62,176.63,186.11,188.60
+UNH,64.0,+8↑↑,Setup is not confirmed,404.61,393.58,414.54,420.06
+NI,64.0,+8↑↑,Setup is not confirmed,41.65,40.91,42.32,42.69
+WTW,64.0,+13↑↑,Setup is not confirmed,341.75,334.48,348.29,351.93
+COF,64.0,+60↑↑,Setup is not confirmed,219.06,213.91,223.69,226.26
+MDT,64.0,+10↑↑,Setup is not confirmed,92.35,90.10,94.38,95.51
+BAC,64.0,+62↑↑,Setup is not confirmed,63.02,61.94,64.01,64.55
+FE,64.0,+60↑↑,Setup is not confirmed,46.85,46.11,47.52,47.89
