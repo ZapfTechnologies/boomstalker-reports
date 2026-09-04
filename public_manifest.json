@@ -1,10 +1,10 @@
 {
-  "market_date": "2026-09-02",
-  "published_at": "2026-09-02T12:05:18",
+  "market_date": "2026-09-04",
+  "published_at": "2026-09-04T11:04:04",
   "scan_count": 2,
   "scan_type": "LIVE",
   "scan_source": "FAST INTRADAY",
-  "market_regime": "Bullish",
+  "market_regime": "Neutral",
   "market_read": "Selective Opportunity",
   "symbols_shown": 40
 }
