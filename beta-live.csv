@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-APTV,66.0,+3↑,After the trade window · Trade criteria passed,47.94,46.54,49.20,49.90
-NRG,65.0,+48↑,After the trade window · General watch only,118.83,113.72,123.43,125.98
-INTC,63.0,-12↓↓,After the trade window · Setup is not confirmed,94.66,90.45,98.45,100.55
-JBHT,60.0,0 →,After the trade window · Sector leadership is lagging,272.01,263.54,279.63,283.87
-BEN,58.0,-5↓↓,After the trade window · General watch only,34.85,33.71,35.88,36.45
-TSCO,57.0,-1↓,After the trade window · Setup is not confirmed,35.39,34.44,36.24,36.71
-QQQ,56.0,-5↓↓,After the trade window · Setup is not confirmed,717.89,709.71,725.25,729.34
-VRT,55.0,-5↓↓,After the trade window · General watch only,278.55,263.14,292.42,300.12
-GWW,53.0,-6↓↓,After the trade window · Sector leadership is lagging,"1,321.78","1,296.59","1,344.45","1,357.04"
-AES,53.0,-3↓,After the trade window · Under-$15 research only,14.79,13.31,16.26,17.74
-TFC,53.0,+2↑,After the trade window · Setup is not confirmed,51.72,50.77,52.57,53.04
-GM,53.0,+2↑,After the trade window · Setup is not confirmed,87.44,85.33,89.34,90.39
-AEP,53.0,-3↓,After the trade window · Setup is not confirmed,124.76,122.68,126.63,127.66
-VST,51.0,-11↓↓,After the trade window · General watch only,148.87,139.40,157.39,162.13
-CEG,51.0,+13↑,After the trade window · Required risk 8.1% exceeds the 7.0% limit,297.87,,,
-RSG,51.0,+5↑,After the trade window · Sector leadership is lagging,223.31,217.66,228.39,231.21
-PRU,51.0,0 →,After the trade window · Setup is not confirmed,122.28,119.82,124.49,125.72
-ETR,51.0,-5↓,After the trade window · Setup is not confirmed,107.37,105.46,109.09,110.04
-FE,51.0,-5↓,After the trade window · Setup is not confirmed,46.86,46.10,47.55,47.93
-PPL,51.0,-5↓,After the trade window · Setup is not confirmed,35.10,34.50,35.64,35.94
-MS,48.0,+14↑,After the trade window · Setup is not confirmed,217.15,212.51,221.32,223.64
-USB,48.0,-3↓,After the trade window · Setup is not confirmed,63.35,62.22,64.38,64.94
-FISV,48.0,+48↑,After the trade window · Setup is not confirmed,53.24,51.86,54.48,55.17
-GS,48.0,+48↑,After the trade window · Setup is not confirmed,"1,037.01","1,012.27","1,059.26","1,071.63"
-AMP,48.0,+9↑,After the trade window · Setup is not confirmed,560.26,547.99,571.31,577.44
-WRB,48.0,-8↓↓,After the trade window · Setup is not confirmed,69.34,68.18,70.38,70.97
-BRK-B,48.0,-6↓↓,After the trade window · Setup is not confirmed,505.81,500.76,510.35,512.88
-PG,48.0,-3↓,After the trade window · Setup is not confirmed,146.35,143.86,148.60,149.85
-COF,48.0,-3↓,After the trade window · Setup is not confirmed,219.12,214.22,223.53,225.97
-HSIC,48.0,-3↓,After the trade window · Setup is not confirmed,89.99,88.30,91.51,92.36
-CPAY,48.0,+2↑,After the trade window · Setup is not confirmed,416.90,406.30,426.44,431.74
-SYF,48.0,+2↑,After the trade window · Setup is not confirmed,79.96,77.85,81.86,82.91
-BNY,48.0,-8↓↓,After the trade window · General watch only,165.26,160.45,169.59,172.00
-OXY,48.0,-6↓,After the trade window · Setup is not confirmed,60.07,58.76,61.25,61.90
-TECH,48.0,+6↑↑,After the trade window · Setup is not confirmed,72.44,72.23,72.64,72.75
-SMCI,48.0,-3↓,After the trade window · Required risk 8.6% exceeds the 7.0% limit,39.34,,,
-GPN,47.0,+10↑,After the trade window · Setup is not confirmed,93.15,90.29,95.72,97.15
-APP,47.0,+8↑,After the trade window · General watch only,320.54,306.39,333.27,340.34
-MDT,46.0,0 →,After the trade window · General watch only,94.30,90.59,97.64,99.49
-MU,46.0,-12↓↓,After the trade window · Required risk 8.3% exceeds the 7.0% limit,"1,002.64",,,
+APTV,0.0,0 →,Data issue: Stale live 66.8h,47.95,,,
+NRG,0.0,0 →,Data issue: Stale live 66.8h,119.02,,,
+INTC,0.0,0 →,Data issue: Stale live 66.8h,95.80,,,
+JBHT,0.0,0 →,Data issue: Stale live 66.8h,273.77,,,
+BEN,0.0,0 →,Data issue: Stale live 66.8h,34.73,,,
+VST,0.0,0 →,Data issue: Stale live 66.8h,149.30,,,
+QQQ,0.0,0 →,Data issue: Stale live 66.8h,718.96,,,
+CEG,0.0,0 →,Data issue: Stale live 66.8h,298.96,,,
+SMCI,0.0,0 →,Data issue: Stale live 66.8h,39.59,,,
+VRT,0.0,0 →,Data issue: Stale live 66.8h,280.53,,,
+MU,0.0,0 →,Data issue: Stale live 66.8h,"1,016.59",,,
+BBY,0.0,0 →,Data issue: Stale live 66.8h,90.27,,,
+SWKS,0.0,0 →,Data issue: Stale live 66.8h,74.02,,,
+MDT,0.0,0 →,Data issue: Stale live 66.8h,94.17,,,
+GM,0.0,0 →,Data issue: Stale live 66.8h,87.76,,,
+GPN,0.0,0 →,Data issue: Stale live 66.8h,92.54,,,
+AWK,0.0,0 →,Data issue: Stale live 66.8h,140.70,,,
+FISV,0.0,0 →,Data issue: Stale live 66.8h,53.00,,,
+SYF,0.0,0 →,Data issue: Stale live 66.8h,79.92,,,
+NVDA,0.0,0 →,Data issue: Stale live 66.8h,230.36,,,
+ORCL,0.0,0 →,Data issue: Stale live 66.8h,158.83,,,
+APH,0.0,0 →,Data issue: Stale live 66.8h,82.78,,,
+STT,0.0,0 →,Data issue: Stale live 66.8h,194.26,,,
+ULTA,0.0,0 →,Data issue: Stale live 66.8h,564.12,,,
+META,0.0,0 →,Data issue: Stale live 66.8h,616.77,,,
+MPC,0.0,0 →,Data issue: Stale live 66.8h,388.90,,,
+APP,0.0,0 →,Data issue: Stale live 66.8h,320.56,,,
+TSCO,0.0,0 →,Data issue: Stale live 66.8h,34.99,,,
+F,0.0,0 →,Data issue: Stale live 66.8h,14.62,13.16,16.08,17.54
+SNDK,0.0,0 →,Data issue: Stale live 66.8h,"1,740.00",,,
+GWW,0.0,0 →,Data issue: Stale live 66.8h,"1,324.49",,,
+AES,0.0,0 →,Data issue: Stale live 66.8h,14.79,13.31,16.27,17.75
+TFC,0.0,0 →,Data issue: Stale live 66.8h,51.65,,,
+AEP,0.0,0 →,Data issue: Stale live 66.8h,124.50,,,
+HPQ,0.0,0 →,Data issue: Stale live 66.8h,32.64,,,
+PSX,0.0,0 →,Data issue: Stale live 66.8h,255.09,,,
+BNY,0.0,0 →,Data issue: Stale live 66.7h,164.84,,,
+IFF,0.0,0 →,Data issue: Stale live 66.8h,86.35,,,
+RSG,0.0,0 →,Data issue: Stale live 66.8h,222.71,,,
+PRU,0.0,0 →,Data issue: Stale live 66.8h,122.02,,,
