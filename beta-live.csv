@@ -1,41 +1,41 @@
 ﻿Ticker,Confidence,Trend,Status / Reason,Entry,Stop,T1,T2
-COHR,96.0,+7↑↑,Required risk 7.5% exceeds the 7.0% limit,313.27,,,
-QCOM,74.0,-12↓↓,Required risk 8.5% exceeds the 7.0% limit,176.85,,,
-VST,83.0,0 →,Required risk 8.9% exceeds the 7.0% limit,153.70,,,
-ETN,74.0,0 →,Sector leadership is lagging,428.11,415.42,439.53,445.87
-KLAC,70.0,+6↑↑,Momentum building with confirmation · Trend +6↑↑ · Rebounding,189.46,182.44,195.78,199.29
-TER,69.0,+50↑↑,Momentum building with confirmation · Trend +50↑↑ · Rebounding,377.17,358.71,393.78,403.01
-WRB,59.0,+5↑↑,Cooldown active until 9/11/26,70.06,68.59,71.39,72.12
-ORCL,54.0,-6↓↓,Required risk 11.3% exceeds the 7.0% limit,164.06,,,
-JCI,61.0,+52↑↑,Setup is not confirmed,145.41,142.30,148.21,149.76
-AMD,58.0,-5↓↓,General watch only,502.34,467.76,533.46,550.76
-CAT,58.0,+4↑↑,Sector leadership is lagging,826.19,803.75,846.39,857.61
-NI,58.0,+4↑↑,Setup is not confirmed,42.03,41.10,42.86,43.33
-STX,58.0,+7↑↑,General watch only,881.44,834.32,923.85,947.41
-LRCX,56.0,-2↓,General watch only,320.05,306.71,332.06,338.73
-LYB,56.0,0 →,Setup is not confirmed,65.57,63.30,67.61,68.75
-TSCO,56.0,+7↑↑,Sector leadership is lagging,35.56,34.63,36.40,36.86
-MRVL,55.0,-2↓,Setup is not confirmed,229.45,214.42,242.98,250.49
-WELL,54.0,-4↓↓,Setup is not confirmed,239.30,234.73,243.42,245.70
-ES,54.0,-3↓,Setup is not confirmed,71.95,70.75,73.04,73.64
-AEP,54.0,0 →,Setup is not confirmed,125.75,123.08,128.15,129.49
-ETR,54.0,0 →,Setup is not confirmed,108.67,106.12,110.96,112.23
-FE,54.0,0 →,Setup is not confirmed,46.86,46.12,47.52,47.89
-AMT,54.0,0 →,Setup is not confirmed,178.26,173.07,182.93,185.53
-CNP,54.0,0 →,Setup is not confirmed,40.20,39.45,40.88,41.25
-EVRG,54.0,0 →,Setup is not confirmed,82.39,81.06,83.58,84.25
-DTE,54.0,0 →,Setup is not confirmed,137.74,135.81,139.48,140.45
-PPL,54.0,+3↑,Setup is not confirmed,35.48,34.80,36.10,36.45
-BKR,54.0,+4↑↑,Setup is not confirmed,64.39,62.74,65.87,66.70
-QQQ,54.0,+5↑↑,Setup is not confirmed,718.98,711.27,725.92,729.77
-LITE,54.0,0 →,Required risk 11.5% exceeds the 7.0% limit,973.26,,,
-HPE,53.0,0 →,Setup is not confirmed,54.70,51.74,57.37,58.85
-SRE,53.0,-12↓↓,Setup is not confirmed,85.60,83.24,87.73,88.91
-ED,51.0,-3↓,Setup is not confirmed,108.36,106.78,109.78,110.57
-TEL,51.0,0 →,Setup is not confirmed,210.00,204.79,214.69,217.29
-ATO,51.0,0 →,Setup is not confirmed,168.67,166.30,170.81,171.99
-PEG,51.0,0 →,Setup is not confirmed,74.34,73.29,75.28,75.81
-TPL,51.0,0 →,General watch only,377.51,359.66,393.58,402.50
-FCX,50.0,0 →,Required risk 8.8% exceeds the 7.0% limit,78.28,,,
-VRT,49.0,0 →,Required risk 9.0% exceeds the 7.0% limit,290.72,,,
-WDC,49.0,+1↑,Setup is not confirmed,473.87,448.48,496.72,509.41
+COHR,100.0,+11↑↑,Required risk 7.1% exceeds the 7.0% limit,311.77,,,
+VST,83.0,0 →,Required risk 8.7% exceeds the 7.0% limit,153.42,,,
+WRB,77.0,+23↑↑,Cooldown active until 9/11/26,70.27,68.59,71.78,72.63
+QCOM,74.0,-12↓↓,Required risk 8.5% exceeds the 7.0% limit,176.87,,,
+TER,69.0,+50↑,Trend: Not turning,377.22,358.76,393.83,403.06
+ETN,66.0,-8↓↓,Sector leadership is lagging,429.09,415.72,441.12,447.80
+KLAC,66.0,+2↑,Trend: Not turning,189.28,182.26,195.60,199.11
+JCI,61.0,+52↑,Setup is not confirmed,145.88,142.77,148.67,150.23
+HPE,60.0,+7↑,Setup is not confirmed,54.88,51.92,57.55,59.03
+FIX,60.0,+58↑↑,Sector leadership is lagging,"1,649.84","1,582.58","1,710.37","1,744.00"
+ORCL,59.0,-1↓,Required risk 11.5% exceeds the 7.0% limit,164.53,,,
+AMD,58.0,-5↓,Required risk 8.0% exceeds the 7.0% limit,508.27,,,
+CCI,57.0,+3↑,Setup is not confirmed,76.70,74.65,78.55,79.58
+CAT,56.0,+2↑,Sector leadership is lagging,827.66,805.22,847.86,859.08
+TSCO,56.0,+7↑,Sector leadership is lagging,35.60,34.67,36.44,36.91
+MRVL,56.0,-1↓,General watch only,230.66,215.63,244.19,251.71
+LRCX,56.0,-2↓,General watch only,320.58,306.71,333.07,340.01
+SRE,55.0,-10↓,Setup is not confirmed,85.73,83.37,87.86,89.04
+KMI,55.0,+55↑↑,Setup is not confirmed,31.88,31.07,32.61,33.01
+NI,54.0,0 →,Setup is not confirmed,41.93,41.10,42.67,43.09
+ES,54.0,-3↓,Setup is not confirmed,71.78,70.57,72.86,73.46
+CNP,54.0,0 →,Setup is not confirmed,40.10,39.35,40.78,41.16
+DTE,54.0,0 →,Setup is not confirmed,137.54,135.61,139.29,140.25
+BKR,54.0,+4↑,Setup is not confirmed,64.25,62.70,65.65,66.43
+QQQ,54.0,+5↑,Setup is not confirmed,720.24,712.53,727.18,731.03
+LITE,54.0,0 →,Required risk 12.7% exceeds the 7.0% limit,986.57,,,
+DLR,53.0,+53↑↑,Setup is not confirmed,191.44,186.03,196.31,199.01
+WELL,51.0,-7↓↓,Setup is not confirmed,238.35,233.78,242.47,244.75
+AEP,51.0,-3↓,Setup is not confirmed,125.47,123.08,127.63,128.83
+ETR,51.0,-3↓,Setup is not confirmed,108.28,106.12,110.24,111.32
+AMT,51.0,-3↓,Setup is not confirmed,177.56,173.07,181.61,183.86
+EVRG,51.0,-3↓,Setup is not confirmed,82.24,80.91,83.43,84.10
+PPL,51.0,0 →,Setup is not confirmed,35.38,34.80,35.90,36.19
+ED,51.0,-3↓,Setup is not confirmed,108.26,106.68,109.68,110.47
+TEL,51.0,0 →,Setup is not confirmed,209.58,204.37,214.27,216.87
+PEG,51.0,0 →,Setup is not confirmed,74.42,73.38,75.37,75.89
+TPL,51.0,0 →,General watch only,376.70,359.66,392.04,400.56
+AES,51.0,0 →,Under-$15 research only,14.79,13.32,16.27,17.75
+MS,51.0,+5↑↑,Setup is not confirmed,217.83,212.70,222.45,225.01
+GS,51.0,+51↑↑,Setup is not confirmed,"1,039.17","1,015.01","1,060.91","1,072.99"
